@@ -1,0 +1,2928 @@
+#Word Types: 2925
+#Word Tokens: 42679
+#Search Hits: 0
+1	1631	baby	babies	5	baby	1626	
+2	1574	woman	woman	1151	women	423	
+3	1560	man	man	1377	men	183	
+4	739	day	day	603	days	136	
+5	730	time	time	630	times	100	
+6	722	mama	mama	720	mamas	2	
+7	663	way	way	562	ways	101	
+8	651	blue	blue	22	blues	629	
+9	631	night	night	608	nights	23	
+10	604	home	home	603	homes	1	
+11	572	morning	morning	546	mornings	26	
+12	504	mind	mind	503	minds	1	
+13	404	door	door	396	doors	8	
+14	404	town	town	401	towns	3	
+15	389	gal	gal	373	gals	16	
+16	375	lord	lord	375	
+17	363	money	
+18	354	love	love	315	loving	39	
+19	336	thing	thing	254	things	82	
+20	319	girl	girl	287	girls	32	
+21	295	hand	hand	231	hands	64	
+22	293	train	train	281	trains	12	
+23	274	something	
+24	261	boy	boy	158	boys	103	
+25	261	head	head	256	heads	5	
+26	239	people	people	225	peoples	14	
+27	236	nothing	nothing	236	
+28	219	friend	friend	144	friends	75	
+29	219	trouble	trouble	184	troubles	35	
+30	219	world	world	219	
+31	213	nobody	nobody	213	
+32	201	place	place	193	places	8	
+33	199	honey	honey	199	
+34	196	heart	heart	193	hearts	3	
+35	185	bed	bed	185	
+36	183	mine	mine	180	mines	2	mining	1	
+37	176	daddy	daddies	1	daddy	175	
+38	164	street	street	137	streets	27	
+39	164	whiskey	whiskey	164	
+40	163	babe	babe	163	
+41	158	dog	dog	147	dogging	1	dogs	10	
+42	151	house	house	150	houses	1	
+43	148	papa	papa	148	
+44	145	road	road	139	roads	6	
+45	139	name	name	138	names	1	
+46	137	clothe	clothes	137	
+47	133	ooo	
+48	132	sun	sun	132	
+49	130	kind	kind	124	kinds	6	
+50	130	somebody	
+51	125	water	water	122	watering	2	waters	1	
+52	120	drink	drink	83	drinking	31	drinks	6	
+53	116	care	care	116	
+54	114	everybody	
+55	114	everything	
+56	110	foot	feet	93	foot	16	foots	1	
+57	108	life	life	108	
+58	108	mother	mother	108	
+59	107	rider	rider	107	
+60	105	god	god	105	
+61	105	shoe	shoe	15	shoes	90	
+62	105	sugar	sugar	105	
+63	103	ground	ground	102	grounds	1	
+64	102	dollar	dollar	63	dollars	39	
+65	102	fool	fool	97	fooling	2	fools	3	
+66	102	right	right	101	rights	1	
+67	101	reason	reason	101	
+68	100	soul	soul	99	souls	1	
+69	100	stuff	stuff	100	
+70	94	judge	judge	93	judges	1	
+71	93	folk	folk	2	folks	91	
+72	93	hey	
+73	93	today	
+74	89	song	song	86	songs	3	
+75	86	dime	dime	79	dimes	7	
+76	85	child	child	57	children	28	
+77	85	river	river	84	rivers	1	
+78	84	face	face	84	
+79	84	knee	knee	22	knees	62	
+80	84	wife	wife	80	wives	4	
+81	84	wonder	wonder	82	wondering	2	
+82	83	feeling	feeling	78	feelings	5	
+83	83	year	year	33	years	50	
+84	82	jail	jail	82	
+85	82	someone	
+86	79	line	line	78	lines	1	
+87	78	hair	hair	78	
+88	78	luck	
+89	77	letter	letter	75	letters	2	
+90	77	snake	snake	74	snakes	3	
+91	76	none	
+92	75	arm	arm	15	arms	60	
+93	75	matter	matter	75	
+94	75	sea	sea	75	
+95	75	sister	sister	58	sisters	17	
+96	75	use	use	48	used	26	uses	1	
+97	74	country	country	74	
+98	72	back	back	72	
+99	72	one	one	68	ones	4	
+100	70	side	side	69	sides	1	
+101	70	work	work	68	works	2	
+102	69	eye	eye	24	eyes	45	
+103	69	window	window	58	windows	11	
+104	68	doctor	doctor	61	doctoring	1	doctors	6	
+105	67	cat	cat	61	cats	6	
+106	67	jellyroll	
+107	67	talk	talk	59	talking	3	talks	5	
+108	66	walk	walk	38	walking	28	
+109	65	break	break	59	breaking	4	breaks	2	
+110	64	mountain	mountain	62	mountains	2	
+111	64	son	son	64	
+112	64	wall	wall	58	walls	6	
+113	63	corner	corner	61	corners	2	
+114	63	station	station	63	
+115	62	corn	corn	62	
+116	61	look	look	57	looks	4	
+117	60	gin	gin	60	
+118	57	liquor	liquor	57	
+119	57	yard	yard	57	
+120	56	stand	stand	23	standing	33	
+121	55	anything	
+122	55	brother	brother	50	brothers	5	
+123	55	word	word	36	words	19	
+124	54	blow	blow	38	blowing	1	blows	15	
+125	54	buddy	buddies	1	buddy	53	
+126	54	highway	highway	54	
+127	54	midnight	
+128	54	rock	rock	39	rocking	3	rocks	12	
+129	54	round	round	39	rounder	13	rounds	2	
+130	54	tomorrow	
+131	53	floor	floor	53	
+132	53	leave	leave	35	leaves	4	leaving	6	left	8	
+133	53	mean	mean	47	means	6	
+134	52	mule	mule	49	mules	3	
+135	52	need	need	49	needs	3	
+136	52	tree	tree	44	trees	8	
+137	51	fall	fall	51	
+138	51	hell	
+139	50	chance	chance	49	chances	1	
+140	50	devil	devil	50	
+141	50	hill	hill	48	hills	2	
+142	50	rest	rest	50	
+143	50	tennessee	
+144	49	ride	ride	37	rides	11	riding	1	
+145	48	cry	cry	46	crying	2	
+146	48	feel	feel	48	
+147	48	meat	meat	48	
+148	47	chicago	
+149	47	fun	
+150	47	grave	grave	47	
+151	47	news	
+152	47	police	police	46	polices	1	
+153	47	sleep	sleep	46	sleeping	1	
+154	47	stay	stay	38	staying	2	stays	7	
+155	46	alley	alley	44	alleys	2	
+156	46	partner	partner	45	partners	1	
+157	46	preacher	preacher	42	preachers	4	
+158	45	half	half	45	
+159	44	bone	bone	23	bones	21	
+160	44	change	change	43	changes	1	
+161	44	lie	lie	34	lies	10	
+162	44	railroad	railroad	44	
+163	44	room	room	44	
+164	44	suitcase	suitcase	44	
+165	44	ticket	ticket	43	tickets	1	
+166	43	ball	ball	40	balls	3	
+167	43	dream	dream	32	dreams	11	
+168	43	fine	fine	43	
+169	43	light	light	29	lights	14	
+170	43	rain	rain	40	raining	1	rains	2	
+171	41	monkey	monkey	38	monkeys	3	
+172	41	run	run	32	running	8	runs	1	
+173	40	dress	dress	30	dresses	10	
+174	40	evil	evil	40	
+175	40	hate	hate	40	
+176	40	land	land	36	lands	4	
+177	40	leg	leg	20	legs	20	
+178	40	number	number	33	numbers	7	
+179	40	roll	roll	16	rolling	21	rolls	3	
+180	40	wood	wood	29	woods	11	
+181	39	lady	ladies	5	lady	34	
+182	39	pillow	pillow	38	pillows	1	
+183	38	brand	brand	38	
+184	38	cow	cow	35	cows	3	
+185	38	gun	gun	37	guns	1	
+186	38	mile	mile	8	miles	30	
+187	38	stop	stop	38	
+188	38	wind	wind	35	winds	3	
+189	37	coal	coal	36	coals	1	
+190	37	crow	crew	9	crow	25	crowing	2	crows	1	
+191	37	rooster	rooster	35	roosters	2	
+192	36	forty	forty	36	
+193	36	husband	husband	26	husbands	10	
+194	36	jack	jack	36	
+195	36	job	job	36	
+196	36	kitchen	kitchen	36	
+197	36	moonshine	
+198	36	pistol	pistol	35	pistols	1	
+199	36	snow	snow	36	
+200	35	cent	cent	14	cents	21	
+201	35	gold	gold	35	
+202	35	goodbye	goodbye	35	
+203	35	mercy	mercy	35	
+204	35	track	track	34	tracks	1	
+205	35	week	week	24	weeks	11	
+206	35	womens	
+207	34	ash	ashes	34	
+208	34	bell	bell	25	bells	9	
+209	34	bill	bill	31	bills	3	
+210	34	death	death	34	
+211	34	hen	hen	31	hens	3	
+212	34	mr	mr	34	
+213	34	pigmeat	
+214	34	ring	ring	24	ringing	2	rings	8	
+215	34	sand	sand	34	
+216	34	trunk	trunk	33	trunks	1	
+217	33	anybody	
+218	33	be	am	3	be	28	been	2	
+219	33	end	end	31	ends	2	
+220	33	here	
+221	33	lot	lot	19	lots	14	
+222	33	weep	weep	32	weeping	1	
+223	33	west	
+224	33	wine	wine	33	
+225	32	body	body	32	
+226	32	chicken	chicken	25	chickens	7	
+227	32	freight	freight	32	
+228	32	horse	horse	28	horses	4	
+229	32	kid	kid	30	kids	2	
+230	31	car	car	30	cars	1	
+231	31	city	city	31	
+232	31	dough	dough	31	
+233	31	hole	hole	24	holes	7	
+234	31	kiss	kiss	25	kisses	6	
+235	31	memphis	
+236	31	stranger	stranger	30	strangers	1	
+237	30	board	board	29	boards	1	
+238	30	chair	chair	29	chairs	1	
+239	30	coffee	coffee	30	
+240	30	hat	hat	30	
+241	30	tear	tears	30	
+242	29	boat	boat	26	boats	3	
+243	29	bottle	bottle	28	bottles	1	
+244	29	bread	bread	29	
+245	29	drive	drive	21	drives	1	driving	7	
+246	29	hour	hour	13	hours	16	
+247	29	month	month	6	months	23	
+248	29	neighborhood	
+249	29	rule	rule	26	rules	3	
+250	29	texas	
+251	29	wagon	wagon	25	wagons	4	
+252	29	worry	worries	8	worry	18	worrying	3	
+253	28	beer	beer	28	
+254	28	bumblebee	bumblebee	27	bumblebees	1	
+255	28	business	business	28	
+256	28	georgia	
+257	28	mouth	mouth	28	
+258	28	plenty	
+259	28	rent	rent	28	
+260	28	to	
+261	28	uncle	uncle	28	
+262	27	air	air	26	airs	1	
+263	27	diamond	diamond	20	diamonds	7	
+264	27	graveyard	graveyard	27	
+265	27	meal	meal	15	meals	12	
+266	27	yo	
+267	26	bail	bail	26	
+268	26	call	call	22	calls	4	
+269	26	evening	evening	26	
+270	26	game	game	26	
+271	26	harm	harm	26	
+272	26	heaven	heaven	26	
+273	26	ice	ice	26	
+274	26	jelly	jelly	26	
+275	26	law	law	23	laws	3	
+276	26	levee	
+277	26	outdoor	outdoors	26	
+278	26	play	play	19	playing	7	
+279	26	tea	tea	26	
+280	26	winter	winter	26	
+281	25	bad	bad	25	
+282	25	bite	bit	13	bite	11	biting	1	
+283	25	chain	chain	20	chains	5	
+284	25	darling	darling	25	
+285	25	dice	dice	21	dices	4	
+286	25	help	help	25	
+287	25	murder	murder	25	
+288	25	nickel	nickel	22	nickels	3	
+289	25	saturday	saturday	25	
+290	25	stone	stone	21	stones	4	
+291	25	tooth	teeth	21	tooth	4	
+292	24	c	
+293	24	downtown	
+294	24	moon	moon	24	
+295	24	orleans	
+296	24	sign	sign	23	signs	1	
+297	24	skin	skin	21	skins	3	
+298	23	book	book	20	books	3	
+299	23	captain	captain	23	
+300	23	coat	coat	21	coats	2	
+301	23	dance	dance	18	dances	1	dancing	4	
+302	23	depot	depot	23	
+303	23	engineer	engineer	23	
+304	23	farm	farm	22	farms	1	
+305	23	faro	
+306	23	fireman	fireman	22	firemen	1	
+307	23	fly	flies	3	fly	12	flying	8	
+308	23	ford	ford	23	
+309	23	four	four	22	fours	1	
+310	23	hall	hall	23	
+311	23	louis	
+312	23	milk	milk	22	milks	1	
+313	23	potato	potato	6	potatoes	17	
+314	23	sam	
+315	23	spring	spring	15	springs	8	
+316	23	think	think	21	thinking	2	
+317	22	bean	bean	2	beans	20	
+318	22	breakfast	breakfast	22	
+319	22	cold	cold	22	
+320	22	county	county	22	
+321	22	horn	horn	22	
+322	22	king	king	21	kings	1	
+323	22	shelf	shelf	22	
+324	21	agent	agent	20	agents	1	
+325	21	b	
+326	21	bottom	bottom	21	
+327	21	china	
+328	21	cotton	cotton	21	
+329	21	dead	
+330	21	father	father	21	
+331	21	fight	fight	18	fighting	2	fights	1	
+332	21	fire	fire	21	
+333	21	fish	fish	12	fishes	2	fishing	7	
+334	21	gypsy	gypsy	21	
+335	21	hug	hug	19	hugs	2	
+336	21	mess	mess	21	
+337	21	minute	minute	15	minutes	6	
+338	21	pain	pain	17	pains	4	
+339	21	rattlesnake	rattlesnake	17	rattlesnakes	4	
+340	21	suit	suit	18	suits	3	
+341	20	aunt	aunt	20	
+342	20	avenue	avenue	20	
+343	20	blind	blinds	20	
+344	20	booze	booze	20	
+345	20	drop	drop	11	drops	9	
+346	20	ease	ease	19	easing	1	
+347	20	fellow	fellow	19	fellows	1	
+348	20	front	front	20	
+349	20	gasoline	
+350	20	guess	guess	20	
+351	20	hog	hog	20	
+352	20	hound	hound	16	hounds	4	
+353	20	hurry	hurry	20	
+354	20	log	log	20	
+355	20	lover	lover	20	
+356	20	mail	mail	20	
+357	20	misery	misery	20	
+358	20	orchard	orchard	20	
+359	20	pay	pay	20	
+360	20	pocket	pocket	16	pockets	4	
+361	20	sense	sense	19	senses	1	
+362	20	tonight	
+363	19	barrel	barrel	15	barrels	4	
+364	19	brownskin	
+365	19	cadillac	
+366	19	egg	egg	5	eggs	14	
+367	19	family	family	19	
+368	19	grinder	grinder	19	
+369	19	living	living	19	
+370	19	load	load	19	
+371	19	mill	mill	18	mills	1	
+372	19	monday	monday	19	
+373	19	nine	nine	19	
+374	19	razor	razor	17	razors	2	
+375	19	sin	sin	18	sinning	1	
+376	19	weather	weather	19	
+377	18	bird	bird	11	birds	7	
+378	18	boogie	boogie	18	
+379	18	candy	candy	18	
+380	18	crime	crime	17	crimes	1	
+381	18	cross	cross	18	
+382	18	gamble	gamble	3	gambling	15	
+383	18	gang	gang	18	
+384	18	heat	heat	18	
+385	18	jailhouse	
+386	18	jane	
+387	18	key	key	17	keys	1	
+388	18	laugh	laugh	14	laughing	3	laughs	1	
+389	18	lightning	
+390	18	n	
+391	18	nohow	
+392	18	pair	pair	18	
+393	18	peach	peach	2	peaches	16	
+394	18	sack	sack	17	sacks	1	
+395	18	shame	shame	18	
+396	18	slave	slave	16	slaves	2	
+397	18	store	store	18	
+398	18	sunshine	
+399	18	truck	truck	10	trucking	7	trucks	1	
+400	18	try	try	13	trying	5	
+401	18	well	
+402	17	account	account	17	
+403	17	alabama	
+404	17	barrelhouse	
+405	17	bull	bull	15	bulls	2	
+406	17	die	die	17	
+407	17	difference	difference	17	
+408	17	engine	engine	16	engines	1	
+409	17	go	go	15	going	2	
+410	17	grass	grass	17	
+411	17	green	green	13	greens	4	
+412	17	insurance	insurance	17	
+413	17	mens	
+414	17	passenger	passenger	16	passengers	1	
+415	17	school	school	17	
+416	17	summer	summer	17	
+417	17	wing	wing	2	wings	15	
+418	16	bedbug	bedbug	7	bedbugs	9	
+419	16	clock	clock	16	
+420	16	cook	cook	9	cooking	6	cooks	1	
+421	16	dust	dust	16	
+422	16	fare	fare	16	
+423	16	glass	glass	12	glasses	4	
+424	16	grandma	grandma	16	
+425	16	jackson	
+426	16	juice	juice	16	
+427	16	organ	organ	16	
+428	16	pound	pound	13	pounds	3	
+429	16	red	red	16	
+430	16	shotgun	shotgun	15	shotguns	1	
+431	16	sing	sing	1	singing	15	
+432	16	star	star	12	stars	4	
+433	16	telephone	telephone	15	telephones	1	
+434	15	advice	
+435	15	bear	bear	13	bears	2	
+436	15	block	block	10	blocks	5	
+437	15	blood	
+438	15	boll	
+439	15	camp	camp	14	camps	1	
+440	15	cherry	cherry	15	
+441	15	conductor	conductor	15	
+442	15	creep	creep	15	
+443	15	eight	eight	15	
+444	15	eleven	eleven	15	
+445	15	gas	gas	15	
+446	15	hope	hope	15	
+447	15	joe	
+448	15	john	
+449	15	joker	joker	15	
+450	15	nerve	nerve	13	nerves	2	
+451	15	ocean	ocean	15	
+452	15	pint	pint	15	
+453	15	poison	poison	15	
+454	15	race	race	14	races	1	
+455	15	sight	sight	15	
+456	15	sky	skies	5	sky	10	
+457	15	smoke	smoke	11	smoking	4	
+458	15	start	start	14	starts	1	
+459	15	stick	stick	13	sticking	2	
+460	15	supper	supper	15	
+461	15	tongue	tongue	15	
+462	15	war	war	15	
+463	15	yonder	
+464	14	angel	angel	13	angels	1	
+465	14	biscuit	biscuit	2	biscuits	12	
+466	14	butcher	butcher	13	butchers	1	
+467	14	butter	butter	14	
+468	14	card	card	6	cards	8	
+469	14	cause	cause	14	
+470	14	church	church	13	churches	1	
+471	14	cigarette	cigarette	8	cigarettes	6	
+472	14	clown	clown	14	
+473	14	dark	dark	14	
+474	14	fact	fact	10	facts	4	
+475	14	fence	fence	14	
+476	14	fuss	fuss	12	fussing	2	
+477	14	habit	habit	8	habits	6	
+478	14	jug	jug	14	
+479	14	minnie	
+480	14	mojo	
+481	14	pal	pal	11	pals	3	
+482	14	pussy	pussy	14	
+483	14	rabbit	rabbit	13	rabbits	1	
+484	14	rag	rag	12	rags	2	
+485	14	regular	regular	14	
+486	14	shake	shake	14	
+487	14	state	state	13	states	1	
+488	14	stove	stove	14	
+489	14	sunday	sunday	14	
+490	14	table	table	14	
+491	14	trip	trip	14	
+492	14	v	
+493	14	vine	vine	13	vines	1	
+494	14	watch	watch	13	watching	1	
+495	14	yellow	yellow	8	yellows	6	
+496	13	act	act	13	
+497	13	anyhow	
+498	13	appetite	appetite	13	
+499	13	apple	apple	5	apples	8	
+500	13	cannonball	
+501	13	christmas	christmas	13	
+502	13	gate	gate	13	
+503	13	good	good	13	
+504	13	grandpa	grandpa	13	
+505	13	hambone	
+506	13	jump	jump	12	jumping	1	
+507	13	l	
+508	13	lamp	lamp	13	
+509	13	lawyer	lawyer	7	lawyers	6	
+510	13	music	
+511	13	notion	notion	13	
+512	13	pass	pass	10	passing	3	
+513	13	prisoner	prisoner	10	prisoners	3	
+514	13	rat	rat	7	rats	6	
+515	13	shine	shine	12	shining	1	
+516	13	shoulder	shoulder	10	shoulders	3	
+517	13	sorrow	sorrow	12	sorrows	1	
+518	13	sound	sound	12	sounds	1	
+519	13	string	string	9	strings	4	
+520	13	truth	truth	13	
+521	13	undertaker	undertaker	11	undertakers	2	
+522	13	union	union	13	
+523	13	wheel	wheel	8	wheels	5	
+524	13	wire	wire	9	wires	4	
+525	12	atlanta	
+526	12	automobile	automobile	12	
+527	12	boss	boss	12	
+528	12	breast	breast	12	
+529	12	catch	catch	12	
+530	12	count	count	11	counting	1	
+531	12	dad	dad	12	
+532	12	dinner	dinner	12	
+533	12	grocery	groceries	8	grocery	4	
+534	12	hold	hold	12	
+535	12	jazz	jazz	12	
+536	12	jumper	jumper	12	
+537	12	mexico	
+538	12	mississippi	
+539	12	movement	movement	3	movements	9	
+540	12	nest	nest	12	
+541	12	p	
+542	12	peace	
+543	12	picture	picture	12	
+544	12	policy	policy	12	
+545	12	pond	pond	12	
+546	12	price	price	11	prices	1	
+547	12	rod	rod	4	rods	8	
+548	12	root	root	7	roots	5	
+549	12	saddle	saddle	12	
+550	12	seed	seed	11	seeds	1	
+551	12	self	self	12	
+552	12	ship	ship	12	
+553	12	shirt	shirt	11	shirts	1	
+554	12	stew	stew	12	
+555	12	tail	tail	12	
+556	12	treat	treat	12	
+557	12	wait	wait	11	waiting	1	
+558	12	wolf	wolf	10	wolves	2	
+559	12	workhouse	workhouse	12	
+560	11	airplane	airplane	11	
+561	11	beat	beat	11	
+562	11	bluebird	bluebird	10	bluebirds	1	
+563	11	bootlegger	bootlegger	10	bootleggers	1	
+564	11	boxcar	boxcar	6	boxcars	5	
+565	11	cabbage	cabbage	11	
+566	11	cream	cream	10	creams	1	
+567	11	crowd	crowd	11	
+568	11	damper	damper	11	
+569	11	dawn	dawn	11	
+570	11	farewell	farewell	11	
+571	11	frisco	
+572	11	gambler	gambler	10	gamblers	1	
+573	11	hanging	hanging	11	
+574	11	lip	lip	1	lips	10	
+575	11	lock	lock	11	
+576	11	louise	
+577	11	louisiana	
+578	11	machine	machine	11	
+579	11	nation	nation	10	nations	1	
+580	11	needle	needle	9	needles	2	
+581	11	overall	overall	1	overalls	10	
+582	11	panther	panther	11	
+583	11	pick	pick	11	
+584	11	pie	pie	11	
+585	11	piece	piece	11	
+586	11	plea	plea	11	
+587	11	pork	
+588	11	powder	powder	11	
+589	11	shack	shack	11	
+590	11	shovel	shovel	11	
+591	11	shrimp	shrimp	8	shrimps	3	
+592	11	south	
+593	11	squall	squall	10	squalling	1	
+594	11	storm	storm	10	storms	1	
+595	11	telegram	telegram	11	
+596	11	two	two	11	
+597	11	weevil	weevil	11	
+598	11	wish	wish	11	
+599	10	anyone	
+600	10	bug	bug	9	bugs	1	
+601	10	bullfrog	bullfrog	7	bullfrogs	3	
+602	10	cake	cake	9	cakes	1	
+603	10	cell	cell	10	
+604	10	crap	crap	5	craps	5	
+605	10	crepe	
+606	10	deal	deal	10	
+607	10	duck	duck	10	
+608	10	favor	
+609	10	fever	fever	10	
+610	10	field	field	9	fields	1	
+611	10	fore	
+612	10	fortune	fortune	10	
+613	10	friday	friday	10	
+614	10	goat	goat	10	
+615	10	gravy	gravy	10	
+616	10	grin	grin	9	grinning	1	
+617	10	grip	grip	10	
+618	10	gulf	gulf	10	
+619	10	heist	
+620	10	howl	howl	10	
+621	10	hunt	hunt	5	hunting	5	
+622	10	james	
+623	10	jim	
+624	10	lion	lion	8	lions	2	
+625	10	mailman	mailman	10	
+626	10	mare	mare	8	mares	2	
+627	10	neck	neck	10	
+628	10	ooh	
+629	10	ox	ox	10	
+630	10	pant	pants	10	
+631	10	paper	paper	10	
+632	10	pawn	pawn	10	
+633	10	pony	pony	10	
+634	10	pot	pot	7	pots	3	
+635	10	prison	prison	10	
+636	10	queen	queen	9	queens	1	
+637	10	sergeant	sergeant	10	
+638	10	shower	shower	4	showers	6	
+639	10	sink	sink	1	sinking	9	
+640	10	smile	smile	9	smiling	1	
+641	10	spider	spider	10	
+642	10	steel	steel	10	
+643	10	step	step	5	steps	5	
+644	10	story	stories	2	story	8	
+645	10	thought	thought	8	thoughts	2	
+646	10	trick	trick	2	tricks	8	
+647	10	tub	tub	10	
+648	10	verse	verse	9	verses	1	
+649	10	washboard	
+650	9	ache	ache	3	aches	6	
+651	9	band	band	8	bands	1	
+652	9	beale	
+653	9	brown	brown	4	browns	5	
+654	9	brownsville	
+655	9	buggy	buggies	1	buggy	8	
+656	9	bulldog	bulldog	8	bulldogs	1	
+657	9	bum	bum	9	
+658	9	burn	burning	9	
+659	9	calf	calf	9	
+660	9	check	check	8	checks	1	
+661	9	cocktail	cocktail	6	cocktails	3	
+662	9	cup	cup	9	
+663	9	down	down	7	downs	2	
+664	9	fatmouth	
+665	9	jake	
+666	9	knot	knot	9	
+667	9	lesson	lesson	9	
+668	9	mattie	
+669	9	milkcow	
+670	9	mortgage	mortgage	9	
+671	9	motor	motor	9	
+672	9	mouse	mice	2	mouse	7	
+673	9	note	note	9	
+674	9	part	part	7	parts	2	
+675	9	patuni	
+676	9	payday	
+677	9	phone	phone	9	
+678	9	question	question	3	questions	6	
+679	9	rice	
+680	9	rise	rise	9	
+681	9	roller	roller	9	
+682	9	seat	seat	9	
+683	9	spirit	spirit	6	spirits	3	
+684	9	taste	taste	8	tastes	1	
+685	9	tommy	
+686	9	treatment	treatment	8	treatments	1	
+687	9	tuesday	tuesday	9	
+688	9	york	
+689	8	alcohol	
+690	8	bedroom	bedroom	8	
+691	8	bet	bet	8	
+692	8	bible	bible	8	
+693	8	black	black	8	
+694	8	boot	boot	4	booting	1	boots	3	
+695	8	bosom	bosom	8	
+696	8	brain	brain	5	brains	3	
+697	8	chief	chief	7	chiefs	1	
+698	8	coach	coach	3	coaches	5	
+699	8	cocaine	
+700	8	coffin	coffin	8	
+701	8	cool	cool	6	cooling	2	
+702	8	daughter	daughter	8	
+703	8	daylight	daylight	8	
+704	8	dirt	
+705	8	disease	disease	8	
+706	8	distance	distance	8	
+707	8	doodle	doodle	8	
+708	8	eagle	eagle	8	
+709	8	elephant	elephant	8	
+710	8	else	
+711	8	flag	flag	8	
+712	8	frown	frown	2	frowns	6	
+713	8	fruit	fruit	8	
+714	8	gauge	gauge	8	
+715	8	goose	geese	3	goose	5	
+716	8	hip	hip	2	hips	6	
+717	8	iceman	
+718	8	island	island	8	
+719	8	joint	joint	8	
+720	8	kill	kill	8	
+721	8	lordy	
+722	8	lula	
+723	8	many	
+724	8	mosquito	mosquito	2	mosquitoes	6	
+725	8	noon	
+726	8	office	office	7	offices	1	
+727	8	pity	pity	8	
+728	8	prayer	prayer	6	prayers	2	
+729	8	range	range	8	
+730	8	rope	rope	8	
+731	8	sentence	sentence	8	
+732	8	sheriff	sheriff	8	
+733	8	shimmy	
+734	8	shore	shore	8	
+735	8	size	size	8	
+736	8	smith	
+737	8	spade	spade	1	spades	7	
+738	8	special	special	8	
+739	8	steak	steak	6	steaks	2	
+740	8	strike	strike	6	strikes	2	
+741	8	swing	swing	6	swings	2	
+742	8	throat	throat	7	throats	1	
+743	8	toe	toe	2	toes	6	
+744	8	tomcat	tomcat	8	
+745	8	tramp	tramp	7	tramps	1	
+746	8	twenty	twenty	8	
+747	8	vicksburg	
+748	8	voice	voice	8	
+749	8	w	
+750	8	welfare	
+751	8	willow	willow	8	
+752	8	worth	
+753	7	apron	apron	7	
+754	7	backwater	backwater	6	backwaters	1	
+755	7	bag	bag	6	bags	1	
+756	7	bank	bank	7	
+757	7	barbecue	barbecue	7	
+758	7	basement	basement	7	
+759	7	bee	bee	7	
+760	7	box	box	7	
+761	7	brick	brick	6	bricks	1	
+762	7	brownie	brownie	7	
+763	7	bullcow	
+764	7	bust	bust	7	
+765	7	by	
+766	7	cabin	cabin	7	
+767	7	chop	chops	7	
+768	7	clay	
+769	7	clerk	clerk	7	
+770	7	coalman	coalman	7	
+771	7	coke	coke	7	
+772	7	company	company	7	
+773	7	da	
+774	7	den	den	7	
+775	7	dixieland	
+776	7	doubt	doubt	7	
+777	7	dozen	dozen	6	dozens	1	
+778	7	driver	driver	5	drivers	2	
+779	7	farmer	farmer	6	farmers	1	
+780	7	fat	fat	6	fats	1	
+781	7	feed	fed	1	feed	5	feeding	1	
+782	7	frog	frog	5	frogs	2	
+783	7	government	government	7	
+784	7	gown	gown	6	gowns	1	
+785	7	guitar	guitar	6	guitars	1	
+786	7	heifer	heifer	4	heifers	3	
+787	7	hoo	
+788	7	in	
+789	7	inch	inch	2	inches	5	
+790	7	jew	jew	7	
+791	7	live	lives	7	
+792	7	mammy	mammy	7	
+793	7	mary	
+794	7	me	
+795	7	morn	morn	7	
+796	7	move	move	6	moving	1	
+797	7	north	
+798	7	oil	oil	7	
+799	7	past	past	7	
+800	7	peep	peep	6	peeps	1	
+801	7	penitentiary	penitentiary	7	
+802	7	plan	plan	6	plans	1	
+803	7	policeman	policeman	7	
+804	7	poorhouse	poorhouse	7	
+805	7	pulpit	pulpit	7	
+806	7	quart	quart	7	
+807	7	racket	racket	6	rackets	1	
+808	7	rascal	rascal	7	
+809	7	shop	shop	6	shopping	1	
+810	7	show	show	7	
+811	7	sixty	sixty	7	
+812	7	snitch	snitches	2	snitching	5	
+813	7	sock	sock	3	socks	4	
+814	7	spell	spell	7	
+815	7	spoil	spoil	7	
+816	7	squabble	squabble	2	squabbling	5	
+817	7	square	square	7	
+818	7	stepfather	stepfather	7	
+819	7	stocking	stockings	7	
+820	7	stomach	stomach	7	
+821	7	strut	strut	5	strutting	2	
+822	7	teddy	teddy	7	
+823	7	top	top	7	
+824	7	tune	tune	6	tunes	1	
+825	7	valley	valley	7	
+826	7	wildcat	wildcat	7	
+827	7	workingman	
+828	7	yeah	
+829	6	answer	answer	5	answers	1	
+830	6	arkansas	
+831	6	away	
+832	6	ax	
+833	6	backbone	backbone	6	
+834	6	bob	bob	6	
+835	6	brakeman	
+836	6	breath	breath	6	
+837	6	britches	
+838	6	bud	bud	6	
+839	6	bunch	bunch	5	bunching	1	
+840	6	cafe	cafe	6	
+841	6	cemetery	cemetery	6	
+842	6	central	
+843	6	chill	chill	5	chills	1	
+844	6	circle	circle	6	
+845	6	competition	competition	6	
+846	6	corinna	
+847	6	dago	dago	6	
+848	6	dallas	
+849	6	degree	degree	3	degrees	3	
+850	6	doll	doll	6	
+851	6	dump	dump	1	dumps	5	
+852	6	ear	ear	4	ears	2	
+853	6	eve	eve	6	
+854	6	fault	fault	5	faults	1	
+855	6	fit	fit	6	
+856	6	five	five	6	
+857	6	flat	flat	6	
+858	6	foolishness	
+859	6	frame	frame	6	
+860	6	gallon	gallon	5	gallons	1	
+861	6	gear	gear	2	gears	4	
+862	6	get	get	6	
+863	6	ghost	ghost	6	
+864	6	grease	grease	6	
+865	6	greyhound	greyhound	6	
+866	6	grove	grove	6	
+867	6	hammer	hammer	6	
+868	6	harlem	
+869	6	hay	
+870	6	hospital	hospital	6	
+871	6	jailor	
+872	6	jinx	jinx	6	
+873	6	jockey	jockey	6	
+874	6	johnny	
+875	6	johnson	
+876	6	june	
+877	6	lane	lane	6	
+878	6	lifetime	lifetime	5	lifetimes	1	
+879	6	liver	liver	6	
+880	6	lou	
+881	6	louisa	
+882	6	make	make	3	makes	3	
+883	6	market	market	6	
+884	6	might	
+885	6	milkman	milkman	6	
+886	6	mistake	mistake	6	
+887	6	mistreater	
+888	6	model	model	6	
+889	6	mouthful	mouthful	6	
+890	6	nigger	nigger	4	niggers	2	
+891	6	noise	noise	6	
+892	6	pallet	pallet	6	
+893	6	pan	pan	4	pans	2	
+894	6	park	park	6	
+895	6	pawnshop	
+896	6	pearl	pearls	6	
+897	6	pen	pen	6	
+898	6	picket	picket	5	pickets	1	
+899	6	pipe	pipe	6	
+900	6	point	point	4	points	2	
+901	6	project	project	6	
+902	6	quarter	quarter	6	
+903	6	rambler	rambler	6	
+904	6	reel	reel	6	
+905	6	religion	religion	6	
+906	6	rye	
+907	6	salt	salt	6	
+908	6	say	say	6	
+909	6	search	search	6	
+910	6	sell	sell	2	selling	4	
+911	6	shape	shape	6	
+912	6	shell	shell	2	shells	4	
+913	6	shot	shot	5	shots	1	
+914	6	soap	soap	6	
+915	6	speed	speed	5	speeds	1	
+916	6	squaw	squaw	6	
+917	6	st	st	6	
+918	6	stable	stable	6	
+919	6	stingaree	
+920	6	sweetheart	sweetheart	5	sweethearts	1	
+921	6	tiger	tiger	5	tigers	1	
+922	6	tip	tip	6	
+923	6	traffic	traffic	6	
+924	6	trail	trail	6	
+925	6	treetop	treetop	5	treetops	1	
+926	6	trial	trial	6	
+927	6	trust	trust	6	
+928	6	watermelon	watermelon	5	watermelons	1	
+929	6	wednesday	wednesday	6	
+930	6	wheat	wheat	6	
+931	6	whisker	whiskers	6	
+932	6	willie	willie	6	
+933	6	yesterday	
+934	5	alligator	alligator	4	alligators	1	
+935	5	arrangement	arrangements	5	
+936	5	bark	bark	5	
+937	5	bayou	
+938	5	bedside	
+939	5	biddle	
+940	5	birmingham	
+941	5	bit	bits	5	
+942	5	blame	blame	5	
+943	5	bluff	bluff	5	
+944	5	bond	bond	5	
+945	5	border	border	5	
+946	5	bridge	bridge	4	bridges	1	
+947	5	buck	buck	2	bucks	3	
+948	5	bun	bun	2	buns	3	
+949	5	cairo	
+950	5	california	
+951	5	case	case	5	
+952	5	casey	
+953	5	charlie	
+954	5	chauffeur	chauffeur	5	
+955	5	chinches	
+956	5	claus	
+957	5	connection	connection	5	
+958	5	cooncan	
+959	5	cop	cop	3	cops	2	
+960	5	copper	copper	4	coppers	1	
+961	5	crawl	crawl	4	crawling	1	
+962	5	credit	credit	5	
+963	5	cut	cut	5	
+964	5	date	date	5	
+965	5	deacon	deacon	5	
+966	5	derby	derby	5	
+967	5	desert	desert	3	deserts	2	
+968	5	dig	dig	1	digging	4	
+969	5	dive	dive	5	
+970	5	doggone	
+971	5	draw	draw	5	
+972	5	earth	earth	5	
+973	5	edge	edge	5	
+974	5	ethiopia	
+975	5	feets	
+976	5	fighter	fighter	2	fighters	3	
+977	5	flower	flowers	5	
+978	5	fry	fries	1	fry	3	frying	1	
+979	5	governor	governor	5	
+980	5	guy	guy	5	
+981	5	happiness	
+982	5	hattie	
+983	5	haw	haw	4	hawing	1	
+984	5	hitch	hitch	5	
+985	5	honeybee	honeybee	4	honeybees	1	
+986	5	hookworm	
+987	5	hump	hump	5	
+988	5	iron	iron	5	
+989	5	jacket	jacket	5	
+990	5	jam	jam	4	jams	1	
+991	5	jaw	jaw	3	jaws	2	
+992	5	jones	
+993	5	judgment	
+994	5	k	
+995	5	katy	
+996	5	kitten	kitten	1	kittens	4	
+997	5	knife	knife	5	
+998	5	labour	labour	5	
+999	5	lake	lake	4	lakes	1	
+1000	5	lamb	lamb	5	
+1001	5	lard	lard	5	
+1002	5	like	likes	5	
+1003	5	lowdown	
+1004	5	lunch	lunch	5	
+1005	5	maid	maid	5	
+1006	5	mansion	mansion	5	
+1007	5	mctell	
+1008	5	method	method	5	
+1009	5	miller	miller	5	
+1010	5	mose	
+1011	5	mud	
+1012	5	nose	nose	5	
+1013	5	operator	operator	5	
+1014	5	orphan	orphan	5	
+1015	5	outside	outside	5	
+1016	5	outskirts	
+1017	5	parchman	
+1018	5	party	party	5	
+1019	5	person	person	5	
+1020	5	pig	pig	5	
+1021	5	pimp	pimp	3	pimps	2	
+1022	5	pleasure	pleasure	5	
+1023	5	pole	pole	5	
+1024	5	porter	porter	5	
+1025	5	raid	raid	2	raiding	1	raids	2	
+1026	5	rail	rail	5	
+1027	5	ramrod	ramrod	5	
+1028	5	relief	relief	5	
+1029	5	reputation	reputation	5	
+1030	5	roberta	
+1031	5	sale	sale	3	sales	2	
+1032	5	section	section	5	
+1033	5	shooting	shooting	5	
+1034	5	sigh	sigh	5	
+1035	5	slam	slam	4	slamming	1	
+1036	5	spend	spending	5	
+1037	5	spread	spread	5	
+1038	5	squirrel	squirrel	5	
+1039	5	steal	stealing	5	
+1040	5	stinger	
+1041	5	straw	straw	5	
+1042	5	territor	
+1043	5	test	test	5	
+1044	5	thrill	thrill	5	
+1045	5	thursday	thursday	5	
+1046	5	tie	tie	5	
+1047	5	timbrook	
+1048	5	toad	toad	5	
+1049	5	tombstone	tombstone	3	tombstones	2	
+1050	5	towel	towel	4	towels	1	
+1051	5	turkey	turkey	5	
+1052	5	turn	turn	5	
+1053	5	underwear	
+1054	5	waist	waist	5	
+1055	5	wake	wake	5	
+1056	5	warrant	warrant	5	
+1057	5	web	web	5	
+1058	5	wheatstraw	
+1059	5	wintertime	
+1060	4	ace	ace	4	
+1061	4	action	actions	4	
+1062	4	adam	
+1063	4	aim	aim	4	
+1064	4	army	army	4	
+1065	4	baboon	baboon	4	
+1066	4	baltimore	
+1067	4	barn	barn	4	
+1068	4	battle	battle	2	battles	2	
+1069	4	bend	bend	4	
+1070	4	bid	
+1071	4	blanket	blanket	4	
+1072	4	bloodhound	bloodhound	1	bloodhounds	3	
+1073	4	broadway	
+1074	4	bunker	bunker	4	
+1075	4	bus	bus	4	
+1076	4	cane	cane	3	canes	1	
+1077	4	cannot	
+1078	4	caroline	
+1079	4	catfish	
+1080	4	cave	cave	4	
+1081	4	champagne	
+1082	4	cheater	
+1083	4	chin	chin	4	
+1084	4	chocolate	chocolate	4	
+1085	4	chopper	chopper	4	
+1086	4	climb	climb	4	
+1087	4	coil	coil	3	coils	1	
+1088	4	comb	comb	3	combs	1	
+1089	4	companion	companion	4	
+1090	4	condition	condition	4	
+1091	4	consumption	
+1092	4	courthouse	courthouse	4	
+1093	4	creature	creature	4	
+1094	4	crop	crop	3	crops	1	
+1095	4	curse	curse	4	
+1096	4	cutting	cutting	4	
+1097	4	cypress	cypress	4	
+1098	4	delivery	delivery	4	
+1099	4	delta	delta	4	
+1100	4	disposition	disposition	4	
+1101	4	dock	dock	4	
+1102	4	doorknob	doorknob	4	
+1103	4	dreamer	dreamer	4	
+1104	4	dyer	dyer	4	
+1105	4	elgin	
+1106	4	elsie	
+1107	4	everyone	
+1108	4	fair	fair	4	
+1109	4	fix	fix	4	
+1110	4	flea	flea	4	
+1111	4	flood	flood	4	
+1112	4	florida	
+1113	4	flour	flour	4	
+1114	4	flu	
+1115	4	food	food	4	
+1116	4	football	football	4	
+1117	4	france	
+1118	4	future	future	4	
+1119	4	g	
+1120	4	gait	gait	4	
+1121	4	gravel	
+1122	4	guarantee	guarantee	4	
+1123	4	headlight	headlight	2	headlights	2	
+1124	4	health	
+1125	4	hit	hit	4	
+1126	4	hoe	hoe	4	
+1127	4	holler	hollering	3	hollers	1	
+1128	4	hon	
+1129	4	honeydrip	
+1130	4	j	
+1131	4	jenny	
+1132	4	jesse	
+1133	4	joey	
+1134	4	joke	joke	4	
+1135	4	joy	joy	4	
+1136	4	july	
+1137	4	jury	jury	4	
+1138	4	kate	
+1139	4	killing	killing	4	
+1140	4	kimball	
+1141	4	kindness	kindness	4	
+1142	4	landlady	landlady	4	
+1143	4	landlord	landlord	4	
+1144	4	laura	
+1145	4	lead	lead	4	
+1146	4	lemon	lemon	2	lemons	2	
+1147	4	lowlands	
+1148	4	lump	lump	4	
+1149	4	manager	manager	4	
+1150	4	marble	marble	3	marbles	1	
+1151	4	martha	
+1152	4	match	match	3	matches	1	
+1153	4	maxwell	
+1154	4	medicine	medicine	4	
+1155	4	middle	middle	4	
+1156	4	millionaire	millionaire	4	
+1157	4	missouri	
+1158	4	moan	moaning	4	
+1159	4	morphine	
+1160	4	mustache	
+1161	4	nar	
+1162	4	navy	navy	4	
+1163	4	neckbones	
+1164	4	nehi	
+1165	4	nightmare	nightmare	2	nightmares	2	
+1166	4	out	
+1167	4	packard	
+1168	4	parlor	
+1169	4	peanut	peanut	4	
+1170	4	peetie	
+1171	4	pete	
+1172	4	pile	pile	3	piles	1	
+1173	4	piney	
+1174	4	plumber	plumber	4	
+1175	4	poor	poor	4	
+1176	4	pop	pop	4	
+1177	4	post	post	4	
+1178	4	puppy	puppies	4	
+1179	4	rib	rib	1	ribs	3	
+1180	4	rickets	
+1181	4	roach	roaches	4	
+1182	4	rob	rob	4	
+1183	4	roof	roof	4	
+1184	4	rustle	rustling	4	
+1185	4	santa	
+1186	4	setting	setting	4	
+1187	4	sew	sewing	4	
+1188	4	shoot	shoot	4	
+1189	4	shreveport	
+1190	4	singletree	
+1191	4	sis	
+1192	4	slipper	slipper	1	slippers	3	
+1193	4	sly	sly	4	
+1194	4	soo	
+1195	4	spain	
+1196	4	spoon	spoon	4	
+1197	4	stitch	stitches	4	
+1198	4	strain	strain	4	
+1199	4	sunrise	sunrise	4	
+1200	4	sweety	
+1201	4	t	
+1202	4	tallahassee	
+1203	4	tampa	
+1204	4	thirty	thirty	4	
+1205	4	tone	tone	3	tones	1	
+1206	4	toodle	
+1207	4	tow	tow	4	
+1208	4	tuni	
+1209	4	turpentine	
+1210	4	wear	wear	4	
+1211	4	weight	weight	4	
+1212	4	whip	whip	4	
+1213	4	windowpane	
+1214	4	wink	wink	2	winking	1	winks	1	
+1215	4	woogie	
+1216	3	age	age	3	
+1217	3	alberta	
+1218	3	ale	ale	3	
+1219	3	and	
+1220	3	anna	
+1221	3	attorney	attorney	3	
+1222	3	auger	
+1223	3	avalon	
+1224	3	bacon	
+1225	3	bakershop	
+1226	3	banties	
+1227	3	bar	bar	3	
+1228	3	barber	barber	3	
+1229	3	barrelhousing	
+1230	3	baseball	
+1231	3	bat	bat	3	
+1232	3	beating	beating	3	
+1233	3	behalf	
+1234	3	belly	belly	3	
+1235	3	boa	boa	3	
+1236	3	boiler	boiler	3	
+1237	3	boo	boo	3	
+1238	3	bootleg	
+1239	3	bridewell	
+1240	3	broom	broom	3	
+1241	3	bucket	bucket	3	
+1242	3	bullet	bullet	3	
+1243	3	bully	bully	3	
+1244	3	bunion	bunions	3	
+1245	3	cash	cash	3	
+1246	3	cedar	cedar	3	
+1247	3	cellar	cellar	3	
+1248	3	charley	
+1249	3	cheat	cheating	3	
+1250	3	cheese	cheese	3	
+1251	3	chickasaw	
+1252	3	chinaman	
+1253	3	chitlings	
+1254	3	chock	
+1255	3	chump	chump	3	
+1256	3	churchhouse	
+1257	3	cincinnati	
+1258	3	close	close	3	
+1259	3	cloud	cloud	1	clouds	2	
+1260	3	color	
+1261	3	complaint	complaint	3	
+1262	3	constrictor	
+1263	3	control	control	3	
+1264	3	conversation	conversation	3	
+1265	3	corrine	
+1266	3	cover	cover	3	
+1267	3	crack	crack	3	
+1268	3	craving	craving	3	
+1269	3	creek	creek	3	
+1270	3	crook	crook	2	crooks	1	
+1271	3	crossroads	
+1272	3	cuckoo	cuckoo	3	
+1273	3	curve	curve	3	
+1274	3	dame	dame	3	
+1275	3	dat	
+1276	3	daybreak	
+1277	3	dealer	dealer	3	
+1278	3	decatur	
+1279	3	dentist	dentist	3	
+1280	3	detective	detective	2	detectives	1	
+1281	3	dinah	
+1282	3	disgrace	disgrace	3	
+1283	3	district	district	3	
+1284	3	ditch	ditch	3	
+1285	3	dresser	dresser	3	
+1286	3	drill	drilling	3	
+1287	3	driller	
+1288	3	dynamite	dynamite	3	
+1289	3	eee	
+1290	3	eighty	eighty	3	
+1291	3	excuse	excuse	3	
+1292	3	factory	factory	3	
+1293	3	fear	fear	3	
+1294	3	feather	feather	2	feathers	1	
+1295	3	fiddle	fiddle	3	
+1296	3	fifty	fifty	3	
+1297	3	fist	fist	3	
+1298	3	flap	flap	3	
+1299	3	flesh	flesh	3	
+1300	3	fortuneteller	
+1301	3	fox	fox	3	
+1302	3	friar	friar	3	
+1303	3	friendship	friendship	3	
+1304	3	fro	
+1305	3	frost	frost	3	
+1306	3	furniture	
+1307	3	garret	garret	3	
+1308	3	george	
+1309	3	girlie	
+1310	3	glory	glory	3	
+1311	3	grandmother	grandmother	3	
+1312	3	greenback	greenback	3	
+1313	3	greenville	
+1314	3	grieve	grieve	2	grieving	1	
+1315	3	grind	grind	3	
+1316	3	grub	grub	3	
+1317	3	guard	guard	2	guards	1	
+1318	3	ham	ham	3	
+1319	3	hardship	hardship	2	hardships	1	
+1320	3	harvest	harvest	3	
+1321	3	hatchet	hatchet	3	
+1322	3	hearse	hearse	3	
+1323	3	heel	heel	1	heels	2	
+1324	3	height	height	2	heights	1	
+1325	3	hobo	hobo	3	
+1326	3	hood	hood	3	
+1327	3	hoodoo	
+1328	3	hook	hook	2	hooks	1	
+1329	3	hop	hop	3	
+1330	3	jellybean	
+1331	3	jersey	jersey	3	
+1332	3	jitterbug	
+1333	3	jive	jive	3	
+1334	3	killer	killer	3	
+1335	3	kindle	kindling	3	
+1336	3	kingdom	kingdom	3	
+1337	3	kokomo	
+1338	3	leather	
+1339	3	lee	lee	2	lees	1	
+1340	3	lien	
+1341	3	lighthouse	lighthouse	3	
+1342	3	loan	loan	3	
+1343	3	longing	longing	3	
+1344	3	louse	lice	1	louse	2	
+1345	3	ma	ma	3	
+1346	3	macon	
+1347	3	march	march	3	
+1348	3	marriage	marriage	3	
+1349	3	meningitis	
+1350	3	message	message	3	
+1351	3	minglewood	
+1352	3	minnow	minnows	3	
+1353	3	molasses	
+1354	3	motion	motion	3	
+1355	3	mrs	
+1356	3	neckbone	
+1357	3	niagara	
+1358	3	ninety	ninety	3	
+1359	3	noah	
+1360	3	notoriety	
+1361	3	nut	nut	3	
+1362	3	o	
+1363	3	occupation	occupation	3	
+1364	3	of	
+1365	3	oo	
+1366	3	opponent	opponents	3	
+1367	3	other	other	1	others	2	
+1368	3	pa	pa	3	
+1369	3	pallbearer	pallbearers	3	
+1370	3	passway	
+1371	3	pasture	pasture	3	
+1372	3	pea	pea	2	peas	1	
+1373	3	pill	pill	2	pills	1	
+1374	3	pin	pin	3	
+1375	3	pink	pink	3	
+1376	3	plane	plane	3	
+1377	3	plate	plate	3	
+1378	3	playhouse	playhouse	3	
+1379	3	plug	plug	1	plugs	2	
+1380	3	poker	poker	3	
+1381	3	polish	polish	3	
+1382	3	pool	pool	3	
+1383	3	porch	porch	3	
+1384	3	port	port	3	
+1385	3	present	present	1	presents	2	
+1386	3	president	president	3	
+1387	3	prize	prize	3	
+1388	3	proposition	proposition	3	
+1389	3	prowl	prowl	3	
+1390	3	pull	pull	2	pulls	1	
+1391	3	rack	rack	3	
+1392	3	radio	radio	2	radios	1	
+1393	3	rap	rap	3	
+1394	3	refuse	refuse	3	
+1395	3	regret	regret	3	
+1396	3	rein	rein	1	reins	2	
+1397	3	resurrection	
+1398	3	revenue	revenue	3	
+1399	3	riverside	
+1400	3	roar	roar	3	
+1401	3	rub	rub	3	
+1402	3	rubber	rubber	3	
+1403	3	russell	
+1404	3	sail	sail	3	
+1405	3	sal	
+1406	3	scout	scout	3	
+1407	3	scraunch	
+1408	3	screen	screen	3	
+1409	3	see	saw	3	
+1410	3	shade	shade	3	
+1411	3	shaker	shaker	3	
+1412	3	shed	shed	3	
+1413	3	sheik	
+1414	3	shorty	shorty	3	
+1415	3	sideboard	sideboard	3	
+1416	3	skeet	
+1417	3	skirt	skirt	3	
+1418	3	slice	slice	2	slicing	1	
+1419	3	smell	smell	3	
+1420	3	snitchers	
+1421	3	snoot	
+1422	3	snout	snout	3	
+1423	3	snuff	snuff	3	
+1424	3	soldier	soldier	2	soldiers	1	
+1425	3	sonny	
+1426	3	spelling	spelling	3	
+1427	3	squad	squad	3	
+1428	3	statesboro	
+1429	3	steamboat	
+1430	3	stopper	stopper	3	
+1431	3	strainer	strainer	3	
+1432	3	stroke	stroke	3	
+1433	3	stump	stump	3	
+1434	3	style	style	3	
+1435	3	submarine	submarine	3	
+1436	3	sundown	
+1437	3	suzie	
+1438	3	swim	swimming	3	
+1439	3	tadpole	tadpole	2	tadpoles	1	
+1440	3	tallahatchie	
+1441	3	tenth	tenth	3	
+1442	3	terraplane	
+1443	3	thousand	thousands	3	
+1444	3	tom	tom	3	
+1445	3	tomato	tomato	2	tomatoes	1	
+1446	3	travel	travel	3	
+1447	3	traveler	
+1448	3	trinity	
+1449	3	tube	tube	1	tubes	2	
+1450	3	turning	turning	3	
+1451	3	turtledove	turtledove	3	
+1452	3	u	u	3	
+1453	3	up	ups	3	
+1454	3	van	van	3	
+1455	3	vasser	
+1456	3	vernita	
+1457	3	walker	walker	3	
+1458	3	wavy	wavy	3	
+1459	3	weakness	weakness	3	
+1460	3	weed	weed	3	
+1461	3	whoopee	
+1462	3	wig	wig	3	
+1463	3	yam	yam	3	
+1464	2	a	a	2	
+1465	2	accelerator	accelerator	2	
+1466	2	adams	
+1467	2	almighty	
+1468	2	angeles	
+1469	2	annie	
+1470	2	another	
+1471	2	antone	
+1472	2	arrest	arrest	2	
+1473	2	arthur	
+1474	2	attention	attention	2	
+1475	2	babydoll	
+1476	2	bachelor	bachelor	2	
+1477	2	backwoods	
+1478	2	bait	bait	2	
+1479	2	bake	bake	2	
+1480	2	baker	baker	2	
+1481	2	bam	
+1482	2	banana	banana	2	
+1483	2	batch	batch	2	
+1484	2	bay	bay	2	
+1485	2	beau	beau	2	
+1486	2	beefsteak	
+1487	2	beggar	beggar	2	
+1488	2	ben	
+1489	2	berry	berry	2	
+1490	2	betsy	
+1491	2	billygoat	
+1492	2	blackjack	blackjack	2	
+1493	2	bom	
+1494	2	born	
+1495	2	bossman	
+1496	2	bow	bow	2	
+1497	2	brake	brake	1	brakes	1	
+1498	2	brandy	brandy	2	
+1499	2	brien	
+1500	2	broadcast	broadcasting	2	
+1501	2	brotherless	
+1502	2	brownskins	
+1503	2	buffalo	buffalo	2	
+1504	2	bugaloo	
+1505	2	bump	bump	1	bumps	1	
+1506	2	bush	bushes	2	
+1507	2	buzzard	buzzard	2	
+1508	2	bye	
+1509	2	cabaret	cabaret	2	
+1510	2	cap	cap	2	
+1511	2	carburettor	carburettor	2	
+1512	2	carload	
+1513	2	castle	castle	2	
+1514	2	castor	castor	2	
+1515	2	caveman	caveman	2	
+1516	2	chapter	chapter	2	
+1517	2	charge	charge	1	charges	1	
+1518	2	charity	charity	2	
+1519	2	charleston	charleston	2	
+1520	2	cheek	cheek	1	cheeks	1	
+1521	2	chick	chick	2	
+1522	2	chinch	
+1523	2	chip	chips	2	
+1524	2	chunk	chunk	2	
+1525	2	citizen	citizen	1	citizens	1	
+1526	2	claw	claw	2	
+1527	2	club	club	2	
+1528	2	coast	coast	2	
+1529	2	coconut	coconut	1	coconuts	1	
+1530	2	coffeepot	
+1531	2	collar	collar	2	
+1532	2	coming	coming	2	
+1533	2	cookie	cookies	2	
+1534	2	coon	
+1535	2	cost	costs	2	
+1536	2	cough	cough	2	
+1537	2	couple	couple	2	
+1538	2	course	course	2	
+1539	2	court	court	2	
+1540	2	cousin	cousin	2	
+1541	2	crab	crab	1	crabs	1	
+1542	2	cradle	cradle	2	
+1543	2	crosscut	
+1544	2	crown	crown	1	crowns	1	
+1545	2	crust	crust	2	
+1546	2	cube	cube	2	
+1547	2	curtain	curtain	1	curtains	1	
+1548	2	customer	customer	1	customers	1	
+1549	2	cutout	
+1550	2	cyclone	cyclone	2	
+1551	2	dam	dam	2	
+1552	2	damn	damn	2	
+1553	2	dee	
+1554	2	deed	deeds	2	
+1555	2	derringer	
+1556	2	desk	desk	2	
+1557	2	deuce	deuce	2	
+1558	2	diddie	
+1559	2	distillery	distillery	2	
+1560	2	diver	diver	2	
+1561	2	dixon	
+1562	2	doorbell	doorbell	2	
+1563	2	doorstep	doorstep	2	
+1564	2	doorway	doorway	2	
+1565	2	dope	dope	2	
+1566	2	downfall	
+1567	2	dr	dr	2	
+1568	2	drag	drag	2	
+1569	2	drawer	drawers	2	
+1570	2	drought	drought	2	
+1571	2	dub	dub	2	
+1572	2	eastport	
+1573	2	effect	effect	2	
+1574	2	election	election	2	
+1575	2	elm	elm	2	
+1576	2	erie	
+1577	2	estate	estate	2	
+1578	2	evelyn	
+1579	2	exhaust	exhaust	2	
+1580	2	experience	experience	2	
+1581	2	expressman	
+1582	2	extract	extract	2	
+1583	2	fan	fan	1	fans	1	
+1584	2	fate	fate	2	
+1585	2	fatten	fattening	2	
+1586	2	faucet	faucet	2	
+1587	2	february	
+1588	2	female	females	2	
+1589	2	fifteen	fifteen	2	
+1590	2	filly	filly	2	
+1591	2	finger	fingers	2	
+1592	2	flame	flame	1	flames	1	
+1593	2	footstep	footsteps	2	
+1594	2	foreman	foreman	2	
+1595	2	fork	fork	1	forks	1	
+1596	2	form	form	1	forms	1	
+1597	2	foundry	foundry	2	
+1598	2	fret	fret	2	
+1599	2	frigidaire	
+1600	2	gabber	
+1601	2	garage	garage	2	
+1602	2	garden	garden	1	gardens	1	
+1603	2	gee	
+1604	2	generator	generator	2	
+1605	2	ginger	
+1606	2	glee	
+1607	2	gorilla	gorilla	2	
+1608	2	gossip	gossip	2	
+1609	2	grade	grade	2	
+1610	2	grain	grain	1	grains	1	
+1611	2	grandmammy	
+1612	2	grape	grape	2	
+1613	2	gravedigger	gravedigger	2	
+1614	2	groan	groan	1	groaning	1	
+1615	2	grunt	grunt	2	
+1616	2	hail	hail	2	
+1617	2	handful	handful	2	
+1618	2	hangman	hangman	2	
+1619	2	headache	headache	2	
+1620	2	hearing	hearing	2	
+1621	2	hearseman	
+1622	2	heightth	
+1623	2	helena	
+1624	2	henry	
+1625	2	herb	herbs	2	
+1626	2	holdover	
+1627	2	holloway	
+1628	2	honeydripper	
+1629	2	hornet	hornets	2	
+1630	2	hot	hot	2	
+1631	2	hubbard	
+1632	2	huntsville	
+1633	2	hustler	hustlers	2	
+1634	2	ing	
+1635	2	initial	initial	2	
+1636	2	jackass	jackass	2	
+1637	2	janes	
+1638	2	january	
+1639	2	jewel	jewel	2	
+1640	2	jook	
+1641	2	jungle	jungle	2	
+1642	2	junk	
+1643	2	jurymen	
+1644	2	kentucky	
+1645	2	keyhole	keyhole	2	
+1646	2	kin	
+1647	2	kitty	kitty	2	
+1648	2	lad	lad	2	
+1649	2	lap	lap	2	
+1650	2	leak	leak	1	leaks	1	
+1651	2	leveecamp	
+1652	2	license	license	2	
+1653	2	lick	lick	2	
+1654	2	limburger	
+1655	2	lizzie	
+1656	2	loaf	loaf	2	
+1657	2	lonesome	
+1658	2	loose	loose	2	
+1659	2	lottie	
+1660	2	low	lows	2	
+1661	2	lucille	
+1662	2	lucy	
+1663	2	lumber	lumber	2	
+1664	2	mae	
+1665	2	main	main	2	
+1666	2	male	males	2	
+1667	2	maltree	
+1668	2	mandolin	mandolin	2	
+1669	2	mane	mane	2	
+1670	2	mark	mark	2	
+1671	2	martin	martin	2	
+1672	2	mason	mason	2	
+1673	2	mattress	mattress	2	
+1674	2	melt	melting	2	
+1675	2	mermaid	mermaid	1	mermaids	1	
+1676	2	michigan	
+1677	2	minuteman	
+1678	2	mom	mom	2	
+1679	2	moment	moment	2	
+1680	2	mon	
+1681	2	mooch	mooching	2	
+1682	2	moonlight	moonlight	2	
+1683	2	murderer	murderer	2	
+1684	2	mussel	mussel	2	
+1685	2	nail	nail	1	nails	1	
+1686	2	naptown	
+1687	2	narrow	narrow	2	
+1688	2	natchez	
+1689	2	neglect	neglect	2	
+1690	2	neighbor	
+1691	2	neighbors	
+1692	2	newspaper	newspaper	2	
+1693	2	nipper	nipper	1	nippers	1	
+1694	2	nurse	nurse	1	nurses	1	
+1695	2	oodle	
+1696	2	order	order	2	
+1697	2	overtime	
+1698	2	owl	owl	2	
+1699	2	pace	pace	2	
+1700	2	pack	pack	2	
+1701	2	parson	parson	2	
+1702	2	pennsylvania	
+1703	2	penny	penny	2	
+1704	2	perch	perches	2	
+1705	2	phonograph	phonograph	2	
+1706	2	piano	piano	2	
+1707	2	pickpocket	pickpocket	2	
+1708	2	pinto	
+1709	2	player	player	2	
+1710	2	plot	plot	2	
+1711	2	pneumonia	
+1712	2	pocketknife	
+1713	2	polack	
+1714	2	polecat	polecat	2	
+1715	2	polk	
+1716	2	possum	possum	2	
+1717	2	pudding	pudding	2	
+1718	2	punch	punch	1	punching	1	
+1719	2	put	put	2	
+1720	2	racketeer	racketeer	1	racketeers	1	
+1721	2	ray	ray	2	
+1722	2	read	read	2	
+1723	2	receiver	receiver	2	
+1724	2	record	records	2	
+1725	2	reefer	reefer	1	reefers	1	
+1726	2	revelation	revelation	2	
+1727	2	rhythm	rhythm	2	
+1728	2	rifle	rifle	2	
+1729	2	riley	
+1730	2	ripper	ripper	2	
+1731	2	roadside	roadside	2	
+1732	2	rome	
+1733	2	row	row	2	
+1734	2	rowboat	rowboat	2	
+1735	2	royal	royal	2	
+1736	2	ruckus	
+1737	2	rush	rush	2	
+1738	2	sailing	sailing	2	
+1739	2	sake	sake	2	
+1740	2	salary	salary	2	
+1741	2	salvation	
+1742	2	samuel	
+1743	2	satisfaction	
+1744	2	sausage	sausage	2	
+1745	2	scandal	scandal	2	
+1746	2	scene	scene	2	
+1747	2	scheme	scheme	2	
+1748	2	scoundrel	scoundrel	2	
+1749	2	scraunchers	
+1750	2	scraunching	
+1751	2	screw	screwing	1	screws	1	
+1752	2	seaboard	seaboard	2	
+1753	2	sealskin	
+1754	2	set	set	1	sets	1	
+1755	2	settle	settling	2	
+1756	2	shackle	shackles	2	
+1757	2	shaggy	shaggy	2	
+1758	2	shay	
+1759	2	shift	shifts	2	
+1760	2	shivaree	
+1761	2	shoo	shoo	2	
+1762	2	sickness	sickness	2	
+1763	2	silk	silk	2	
+1764	2	silver	silver	2	
+1765	2	sir	sir	2	
+1766	2	slag	slag	2	
+1767	2	sleet	sleet	2	
+1768	2	slide	slide	1	sliding	1	
+1769	2	slip	slip	1	slipping	1	
+1770	2	snail	snail	2	
+1771	2	so	
+1772	2	sole	soles	2	
+1773	2	soup	soup	2	
+1774	2	southbound	
+1775	2	sow	sow	1	sowing	1	
+1776	2	space	space	2	
+1777	2	spender	spender	1	spenders	1	
+1778	2	spit	spat	1	spit	1	
+1779	2	spite	
+1780	2	springtime	
+1781	2	spy	spy	2	
+1782	2	stab	stab	2	
+1783	2	stake	stake	2	
+1784	2	starvation	
+1785	2	steam	steam	2	
+1786	2	still	stills	2	
+1787	2	stool	stool	2	
+1788	2	streetcar	streetcar	2	
+1789	2	strychnine	
+1790	2	suck	suck	2	
+1791	2	sugarland	
+1792	2	summertime	
+1793	2	sunbeam	sunbeam	2	
+1794	2	sure	sure	2	
+1795	2	switch	switch	2	
+1796	2	take	take	1	taking	1	
+1797	2	tale	tale	2	
+1798	2	tank	tank	2	
+1799	2	tape	tape	2	
+1800	2	taters	
+1801	2	tavern	tavern	1	taverns	1	
+1802	2	tax	tax	2	
+1803	2	teacher	teacher	2	
+1804	2	tease	teasing	2	
+1805	2	temper	temper	2	
+1806	2	texarkana	
+1807	2	thigh	thigh	1	thighs	1	
+1808	2	this	this	2	
+1809	2	three	three	2	
+1810	2	thunder	thunder	2	
+1811	2	tide	tide	2	
+1812	2	tire	tire	1	tires	1	
+1813	2	titanic	
+1814	2	tommies	
+1815	2	tonsil	tonsil	1	tonsils	1	
+1816	2	tool	tool	1	tools	1	
+1817	2	touch	touch	1	touches	1	
+1818	2	toy	toys	2	
+1819	2	trade	trade	2	
+1820	2	transom	
+1821	2	trough	trough	2	
+1822	2	tumors	
+1823	2	turnip	turnip	2	
+1824	2	twin	twin	1	twins	1	
+1825	2	twist	twist	2	
+1826	2	twister	twister	2	
+1827	2	type	type	2	
+1828	2	uh	
+1829	2	um	
+1830	2	upside	
+1831	2	upstairs	
+1832	2	vendor	vendor	2	
+1833	2	virginia	
+1834	2	vote	vote	1	voting	1	
+1835	2	vow	vow	2	
+1836	2	waiter	waiter	2	
+1837	2	walter	
+1838	2	wash	wash	2	
+1839	2	wave	wave	1	waves	1	
+1840	2	wesson	
+1841	2	whale	whales	2	
+1842	2	whiff	whiff	2	
+1843	2	whistle	whistles	2	
+1844	2	white	white	2	
+1845	2	whole	whole	2	
+1846	2	windshield	windshield	2	
+1847	2	wishbone	wishbone	2	
+1848	2	womans	
+1849	2	womenfolks	
+1850	2	woodpecker	woodpecker	2	
+1851	2	wreck	wreck	2	
+1852	2	wrench	wrenches	2	
+1853	2	wrist	wrist	2	
+1854	2	writer	writer	2	
+1855	2	yas	
+1856	1	aberdeen	
+1857	1	acid	acid	1	
+1858	1	ad	ads	1	
+1859	1	adieu	adieu	1	
+1860	1	advance	advance	1	
+1861	1	afternoon	afternoon	1	
+1862	1	aid	aid	1	
+1863	1	ail	ails	1	
+1864	1	airship	airship	1	
+1865	1	aisle	aisle	1	
+1866	1	alarm	alarm	1	
+1867	1	alcorub	
+1868	1	algiers	
+1869	1	alice	
+1870	1	alleycan	
+1871	1	almanac	almanac	1	
+1872	1	ambulance	ambulance	1	
+1873	1	amen	
+1874	1	anchor	anchors	1	
+1875	1	animal	animal	1	
+1876	1	ankle	ankles	1	
+1877	1	ant	ants	1	
+1878	1	applesauce	
+1879	1	april	
+1880	1	archer	archer	1	
+1881	1	argument	argument	1	
+1882	1	arkan	
+1883	1	arty	
+1884	1	ass	ass	1	
+1885	1	atlantic	
+1886	1	attic	attic	1	
+1887	1	auburn	
+1888	1	auction	auction	1	
+1889	1	auctioneer	auctioneer	1	
+1890	1	auntie	auntie	1	
+1891	1	autumn	autumn	1	
+1892	1	bacca	
+1893	1	backbite	backbiting	1	
+1894	1	backbiter	
+1895	1	backbiters	
+1896	1	backing	backing	1	
+1897	1	bale	bale	1	
+1898	1	ballyhoo	
+1899	1	bamalong	
+1900	1	bana	
+1901	1	banty	
+1902	1	bargain	bargain	1	
+1903	1	barge	barge	1	
+1904	1	barley	
+1905	1	barroom	
+1906	1	bass	bass	1	
+1907	1	bath	bath	1	
+1908	1	bathhouse	
+1909	1	bathurst	
+1910	1	batter	batter	1	
+1911	1	battery	batteries	1	
+1912	1	bearcat	
+1913	1	beard	beard	1	
+1914	1	bearing	bearing	1	
+1915	1	beaumont	
+1916	1	bedsprings	
+1917	1	bedtime	
+1918	1	beef	beef	1	
+1919	1	beg	begging	1	
+1920	1	beginning	beginning	1	
+1921	1	belongings	
+1922	1	belt	belt	1	
+1923	1	belzoni	
+1924	1	berniece	
+1925	1	bert	
+1926	1	bes	
+1927	1	bessemer	
+1928	1	betty	
+1929	1	bin	bin	1	
+1930	1	binge	binge	1	
+1931	1	birdhouse	
+1932	1	birdie	birdies	1	
+1933	1	birth	birth	1	
+1934	1	birthday	birthday	1	
+1935	1	biskins	
+1936	1	bitch	bitches	1	
+1937	1	blackbird	blackbird	1	
+1938	1	blackland	
+1939	1	blacksmith	blacksmith	1	
+1940	1	blade	blade	1	
+1941	1	bleed	bleeding	1	
+1942	1	blink	blinking	1	
+1943	1	blossom	blossoms	1	
+1944	1	bobcat	
+1945	1	boil	boil	1	
+1946	1	bolls	
+1947	1	bomb	bomb	1	
+1948	1	bomber	bomber	1	
+1949	1	bondy	
+1950	1	bonus	bonus	1	
+1951	1	boodie	
+1952	1	boodle	
+1953	1	boone	
+1954	1	bootlegging	
+1955	1	bother	bothered	1	
+1956	1	bourbon	bourbon	1	
+1957	1	boxer	boxer	1	
+1958	1	brandyville	
+1959	1	brass	brass	1	
+1960	1	breeze	breeze	1	
+1961	1	brickbat	
+1962	1	bride	bride	1	
+1963	1	brimstone	brimstone	1	
+1964	1	brisby	
+1965	1	broadcaster	broadcaster	1	
+1966	1	brook	brook	1	
+1967	1	bry	
+1968	1	bucketful	bucketful	1	
+1969	1	bugger	bugger	1	
+1970	1	buick	
+1971	1	builder	builder	1	
+1972	1	building	buildings	1	
+1973	1	buke	
+1974	1	bungalow	bungalow	1	
+1975	1	bunk	bunk	1	
+1976	1	burden	burden	1	
+1977	1	burlington	
+1978	1	burse	
+1979	1	bushel	bushel	1	
+1980	1	butterball	
+1981	1	buy	buying	1	
+1982	1	buzz	buzz	1	
+1983	1	byway	byway	1	
+1984	1	cabel	
+1985	1	cabinet	cabinet	1	
+1986	1	calico	
+1987	1	calumet	
+1988	1	cam	cam	1	
+1989	1	candle	candle	1	
+1990	1	cannon	cannon	1	
+1991	1	cannonballs	
+1992	1	canoe	canoe	1	
+1993	1	capital	capital	1	
+1994	1	carmen	
+1995	1	carolina	
+1996	1	carpet	carpet	1	
+1997	1	carriage	carriage	1	
+1998	1	cart	cart	1	
+1999	1	cavenglass	
+2000	1	cavity	cavity	1	
+2001	1	centre	centre	1	
+2002	1	champ	champ	1	
+2003	1	champaign	
+2004	1	charcoal	
+2005	1	chariot	chariot	1	
+2006	1	charlotte	
+2007	1	charm	charm	1	
+2008	1	cheap	cheap	1	
+2009	1	cheaters	
+2010	1	cheeping	
+2011	1	cheer	cheer	1	
+2012	1	chevrolet	
+2013	1	chevy	
+2014	1	chib	
+2015	1	chifforobe	
+2016	1	chile	
+2017	1	chinchilla	
+2018	1	chivver	
+2019	1	chocktaw	
+2020	1	choice	choice	1	
+2021	1	cider	cider	1	
+2022	1	cigar	cigar	1	
+2023	1	cincinnat	
+2024	1	cincy	
+2025	1	circuit	circuit	1	
+2026	1	circus	circus	1	
+2027	1	claim	claim	1	
+2028	1	clara	
+2029	1	clarinet	clarinet	1	
+2030	1	clarksdale	
+2031	1	class	class	1	
+2032	1	clearing	clearing	1	
+2033	1	client	clients	1	
+2034	1	clifton	
+2035	1	cloth	cloth	1	
+2036	1	clover	
+2037	1	cluck	clucking	1	
+2038	1	coccola	
+2039	1	cockroach	cockroaches	1	
+2040	1	cola	cola	1	
+2041	1	coleman	
+2042	1	collection	collection	1	
+2043	1	collector	collector	1	
+2044	1	collins	
+2045	1	com	
+2046	1	command	command	1	
+2047	1	commerce	
+2048	1	concrete	concrete	1	
+2049	1	confidence	confidence	1	
+2050	1	confoundation	
+2051	1	conscience	conscience	1	
+2052	1	consolation	
+2053	1	construction	construction	1	
+2054	1	content	content	1	
+2055	1	conton	
+2056	1	coo	coo	1	
+2057	1	coochie	
+2058	1	cooker	cooker	1	
+2059	1	cork	cork	1	
+2060	1	corky	
+2061	1	cornfield	cornfield	1	
+2062	1	corrina	
+2063	1	cot	cot	1	
+2064	1	courtesy	courtesy	1	
+2065	1	coward	coward	1	
+2066	1	cramp	cramp	1	
+2067	1	crankshaft	crankshaft	1	
+2068	1	crapshooter	
+2069	1	crapshooters	
+2070	1	crash	crash	1	
+2071	1	crazy	crazy	1	
+2072	1	creation	creation	1	
+2073	1	crick	crick	1	
+2074	1	criminal	criminal	1	
+2075	1	cripty	
+2076	1	crossroad	
+2077	1	crudup	
+2078	1	crump	
+2079	1	cub	cub	1	
+2080	1	cuba	
+2081	1	cud	
+2082	1	cue	cue	1	
+2083	1	culligan	
+2084	1	cupboard	cupboard	1	
+2085	1	curl	curls	1	
+2086	1	current	current	1	
+2087	1	cuss	cussing	1	
+2088	1	dagger	dagger	1	
+2089	1	dan	
+2090	1	danger	danger	1	
+2091	1	daniel	
+2092	1	darky	
+2093	1	dash	dash	1	
+2094	1	deane	
+2095	1	deck	deck	1	
+2096	1	defeat	defeat	1	
+2097	1	delano	
+2098	1	delay	delay	1	
+2099	1	demon	demons	1	
+2100	1	denver	
+2101	1	department	department	1	
+2102	1	deposit	deposit	1	
+2103	1	depth	depths	1	
+2104	1	destiny	destiny	1	
+2105	1	destruction	
+2106	1	detroit	
+2107	1	devilment	
+2108	1	diana	
+2109	1	digger	diggers	1	
+2110	1	dike	
+2111	1	dim	dim	1	
+2112	1	dine	dining	1	
+2113	1	dip	dip	1	
+2114	1	diploma	diploma	1	
+2115	1	dirk	
+2116	1	discount	discount	1	
+2117	1	disturbance	disturbance	1	
+2118	1	dixie	
+2119	1	dodge	dodging	1	
+2120	1	doggy	doggy	1	
+2121	1	doings	
+2122	1	dominics	
+2123	1	dona	
+2124	1	donkey	donkey	1	
+2125	1	dony	
+2126	1	doorbox	
+2127	1	dose	dose	1	
+2128	1	double	double	1	
+2129	1	downside	
+2130	1	dragon	dragons	1	
+2131	1	draught	draught	1	
+2132	1	drayman	
+2133	1	dreamingest	
+2134	1	driftrack	
+2135	1	dripper	
+2136	1	drove	drove	1	
+2137	1	drugstore	drugstore	1	
+2138	1	drum	drums	1	
+2139	1	drummond	
+2140	1	drunkard	drunkard	1	
+2141	1	duff	duff	1	
+2142	1	duffle	
+2143	1	duke	duke	1	
+2144	1	dum	
+2145	1	duncan	
+2146	1	durban	
+2147	1	durhamville	
+2148	1	dusk	
+2149	1	earings	
+2150	1	easy	easy	1	
+2151	1	eddie	
+2152	1	ee	
+2153	1	eel	eels	1	
+2154	1	eighteenth	
+2155	1	ellsworth	
+2156	1	enemy	enemies	1	
+2157	1	enough	
+2158	1	ether	
+2159	1	evilness	
+2160	1	excitement	excitement	1	
+2161	1	exit	exit	1	
+2162	1	eyeball	eyeballs	1	
+2163	1	eyelash	eyelash	1	
+2164	1	failure	failure	1	
+2165	1	fairman	
+2166	1	fairy	fairies	1	
+2167	1	fairybook	
+2168	1	faith	faith	1	
+2169	1	fake	fake	1	
+2170	1	farrell	
+2171	1	fashion	fashions	1	
+2172	1	favors	
+2173	1	fender	fender	1	
+2174	1	ferryman	
+2175	1	fertilizer	fertilizer	1	
+2176	1	figure	figure	1	
+2177	1	fill	fill	1	
+2178	1	film	film	1	
+2179	1	fireplace	fireplace	1	
+2180	1	fireside	fireside	1	
+2181	1	flappers	
+2182	1	flash	flash	1	
+2183	1	fleece	fleece	1	
+2184	1	flight	flight	1	
+2185	1	flip	flip	1	
+2186	1	float	float	1	
+2187	1	floppers	
+2188	1	floyd	
+2189	1	fog	fog	1	
+2190	1	folksies	
+2191	1	folly	follies	1	
+2192	1	force	force	1	
+2193	1	forecast	forecast	1	
+2194	1	forepaw	
+2195	1	foresight	
+2196	1	forest	forest	1	
+2197	1	forgery	forgery	1	
+2198	1	fort	fort	1	
+2199	1	fortunetelling	
+2200	1	foundation	foundation	1	
+2201	1	foxtrot	
+2202	1	franklin	
+2203	1	frazzle	
+2204	1	fred	
+2205	1	freddie	
+2206	1	freedom	freedom	1	
+2207	1	freeze	freezing	1	
+2208	1	function	function	1	
+2209	1	fur	fur	1	
+2210	1	gabriel	
+2211	1	gale	gale	1	
+2212	1	gallion	
+2213	1	gallows	
+2214	1	gam	
+2215	1	gander	gander	1	
+2216	1	garbage	
+2217	1	gasman	gasman	1	
+2218	1	gasp	gasping	1	
+2219	1	gatling	
+2220	1	gator	
+2221	1	georgie	
+2222	1	giggle	giggles	1	
+2223	1	gine	
+2224	1	girlies	
+2225	1	gland	glands	1	
+2226	1	gloom	
+2227	1	gloria	
+2228	1	glove	gloves	1	
+2229	1	gnat	gnat	1	
+2230	1	goal	goal	1	
+2231	1	gobbler	gobblers	1	
+2232	1	gong	gong	1	
+2233	1	goodness	
+2234	1	goon	goon	1	
+2235	1	gopher	
+2236	1	gospel	gospel	1	
+2237	1	grab	grabs	1	
+2238	1	granddaddy	
+2239	1	grandfather	grandfather	1	
+2240	1	grandson	grandson	1	
+2241	1	grant	grant	1	
+2242	1	greasy	greasy	1	
+2243	1	greenhorn	greenhorn	1	
+2244	1	greenwood	
+2245	1	gren	
+2246	1	griddle	griddle	1	
+2247	1	grief	grief	1	
+2248	1	groove	groove	1	
+2249	1	grossbeck	
+2250	1	guide	guide	1	
+2251	1	guinea	guinea	1	
+2252	1	gumbo	
+2253	1	gunpowder	
+2254	1	gutter	gutter	1	
+2255	1	gym	gym	1	
+2256	1	hack	hack	1	
+2257	1	halt	halts	1	
+2258	1	halter	halter	1	
+2259	1	hammock	hammock	1	
+2260	1	handbook	handbook	1	
+2261	1	handcuff	handcuff	1	
+2262	1	handle	handling	1	
+2263	1	hannah	
+2264	1	hard	hard	1	
+2265	1	hardin	
+2266	1	harlot	harlot	1	
+2267	1	harris	
+2268	1	harry	harry	1	
+2269	1	hash	
+2270	1	haste	
+2271	1	hastings	
+2272	1	hatsie	
+2273	1	hattiesburg	
+2274	1	haul	hauling	1	
+2275	1	haunt	haunts	1	
+2276	1	have	has	1	
+2277	1	headboard	headboard	1	
+2278	1	headknots	
+2279	1	heap	heap	1	
+2280	1	heartache	heartache	1	
+2281	1	heater	heater	1	
+2282	1	hellhound	
+2283	1	hem	hemming	1	
+2284	1	henhouse	
+2285	1	henrietta	
+2286	1	hesitation	hesitation	1	
+2287	1	hex	
+2288	1	hide	hides	1	
+2289	1	hindenburg	
+2290	1	hisself	
+2291	1	hitler	
+2292	1	hogmeat	
+2293	1	holdup	
+2294	1	hollywood	
+2295	1	holmes	
+2296	1	homemade	
+2297	1	honeycomb	honeycomb	1	
+2298	1	honeymoon	honeymoon	1	
+2299	1	honeysuckle	
+2300	1	hooch	
+2301	1	horseshoe	horseshoe	1	
+2302	1	housemaid	housemaid	1	
+2303	1	houston	
+2304	1	how	
+2305	1	hudson	
+2306	1	hum	hum	1	
+2307	1	hunger	hunger	1	
+2308	1	hunkies	
+2309	1	hurt	hurt	1	
+2310	1	husk	husk	1	
+2311	1	hymn	hymn	1	
+2312	1	iceberg	iceberg	1	
+2313	1	icebox	
+2314	1	icicle	icicles	1	
+2315	1	idea	ideas	1	
+2316	1	if	
+2317	1	illinois	
+2318	1	indiana	
+2319	1	ink	ink	1	
+2320	1	innocence	
+2321	1	inside	inside	1	
+2322	1	instant	instant	1	
+2323	1	jackfish	
+2324	1	jacksonville	
+2325	1	jamaica	
+2326	1	jambalaya	
+2327	1	jamboree	jamboree	1	
+2328	1	janitor	janitor	1	
+2329	1	jar	jar	1	
+2330	1	java	
+2331	1	jazzbo	
+2332	1	jealous	
+2333	1	jellybeans	
+2334	1	jellyroller	
+2335	1	jenkins	
+2336	1	jessie	
+2337	1	jet	jet	1	
+2338	1	jewelry	
+2339	1	jill	
+2340	1	jimmy	jimmy	1	
+2341	1	jimson	
+2342	1	joan	
+2343	1	joliet	
+2344	1	jomo	
+2345	1	journey	journey	1	
+2346	1	jubilee	jubilee	1	
+2347	1	judy	
+2348	1	junction	junction	1	
+2349	1	junior	junior	1	
+2350	1	justice	justice	1	
+2351	1	kaiser	
+2352	1	kangaroo	kangaroo	1	
+2353	1	kansas	
+2354	1	keeper	keeper	1	
+2355	1	keg	keg	1	
+2356	1	kelly	
+2357	1	khaki	
+2358	1	kick	kick	1	
+2359	1	kidney	kidneys	1	
+2360	1	kinfolks	
+2361	1	kingfish	
+2362	1	kinnesaw	
+2363	1	kite	kite	1	
+2364	1	knocker	knocker	1	
+2365	1	ladder	ladder	1	
+2366	1	lakeport	
+2367	1	landing	landing	1	
+2368	1	lank	
+2369	1	larkin	
+2370	1	lauderdale	
+2371	1	lawn	lawn	1	
+2372	1	laza	
+2373	1	leaf	leaf	1	
+2374	1	learn	learning	1	
+2375	1	leese	
+2376	1	lehman	
+2377	1	lend	lending	1	
+2378	1	lepson	
+2379	1	leroy	
+2380	1	levees	
+2381	1	liar	liar	1	
+2382	1	lifeboat	lifeboat	1	
+2383	1	lifesavers	
+2384	1	lightnings	
+2385	1	lil	
+2386	1	lilac	lilac	1	
+2387	1	limb	limb	1	
+2388	1	lind	
+2389	1	linen	linen	1	
+2390	1	lipstick	lipstick	1	
+2391	1	liquid	liquid	1	
+2392	1	list	list	1	
+2393	1	listen	listening	1	
+2394	1	little	
+2395	1	livingroom	
+2396	1	liza	
+2397	1	loader	
+2398	1	loafer	loafer	1	
+2399	1	location	location	1	
+2400	1	loco	
+2401	1	loft	loft	1	
+2402	1	lollipop	lollipop	1	
+2403	1	long	long	1	
+2404	1	lonnie	
+2405	1	loo	loo	1	
+2406	1	looing	
+2407	1	looker	
+2408	1	lookout	lookout	1	
+2409	1	loon	
+2410	1	loosha	
+2411	1	loot	loot	1	
+2412	1	lope	lope	1	
+2413	1	los	
+2414	1	louie	
+2415	1	louisville	
+2416	1	lovebug	
+2417	1	luggage	
+2418	1	lung	lungs	1	
+2419	1	lye	
+2420	1	lynn	
+2421	1	mack	
+2422	1	madison	
+2423	1	magazine	magazine	1	
+2424	1	maggie	
+2425	1	mailbox	mailbox	1	
+2426	1	mainline	mainline	1	
+2427	1	mainliner	
+2428	1	making	making	1	
+2429	1	malice	
+2430	1	mame	
+2431	1	mange	
+2432	1	mangy	mangy	1	
+2433	1	manner	manners	1	
+2434	1	maple	maple	1	
+2435	1	margin	margin	1	
+2436	1	marion	
+2437	1	marylou	
+2438	1	mash	mash	1	
+2439	1	mat	mat	1	
+2440	1	matchbox	matchbox	1	
+2441	1	matcher	
+2442	1	mate	mate	1	
+2443	1	maude	
+2444	1	meadow	meadow	1	
+2445	1	meanest	
+2446	1	meaning	meaning	1	
+2447	1	measles	
+2448	1	medium	medium	1	
+2449	1	melody	melody	1	
+2450	1	melon	melons	1	
+2451	1	member	members	1	
+2452	1	menfolks	
+2453	1	meth	
+2454	1	middy	
+2455	1	midst	
+2456	1	minder	minder	1	
+2457	1	miner	miner	1	
+2458	1	mink	mink	1	
+2459	1	mirth	
+2460	1	misstep	
+2461	1	mistreatment	
+2462	1	misuse	misuse	1	
+2463	1	mitten	mitten	1	
+2464	1	mix	mix	1	
+2465	1	mixture	mixtures	1	
+2466	1	mockingbird	
+2467	1	moler	
+2468	1	moneyman	
+2469	1	moneymen	
+2470	1	monon	
+2471	1	monroe	
+2472	1	mood	mood	1	
+2473	1	moore	
+2474	1	mores	
+2475	1	morgan	
+2476	1	mortar	mortar	1	
+2477	1	moses	
+2478	1	moss	moss	1	
+2479	1	movie	movie	1	
+2480	1	mozelle	
+2481	1	mumblepeg	
+2482	1	mumps	
+2483	1	mussolini	
+2484	1	mustard	
+2485	1	muzzle	muzzle	1	
+2486	1	mystery	mystery	1	
+2487	1	nashville	
+2488	1	nell	
+2489	1	nellie	
+2490	1	nero	
+2491	1	nevermore	
+2492	1	newport	
+2493	1	nice	nice	1	
+2494	1	nickers	
+2495	1	nigh	
+2496	1	nightshirt	nightshirt	1	
+2497	1	nighttime	
+2498	1	nog	
+2499	1	nolan	
+2500	1	noontime	
+2501	1	noose	noose	1	
+2502	1	nora	
+2503	1	norfolk	
+2504	1	northerner	northerner	1	
+2505	1	northland	
+2506	1	notch	notch	1	
+2507	1	notice	notice	1	
+2508	1	now	
+2509	1	nowheres	
+2510	1	nuthouse	nuthouse	1	
+2511	1	officer	officers	1	
+2512	1	oh	
+2513	1	ohio	
+2514	1	okra	
+2515	1	on	
+2516	1	onion	onion	1	
+2517	1	open	open	1	
+2518	1	outcast	outcast	1	
+2519	1	outs	
+2520	1	oven	oven	1	
+2521	1	overzeal	
+2522	1	paddle	paddle	1	
+2523	1	page	page	1	
+2524	1	pajamas	
+2525	1	pall	palling	1	
+2526	1	pancake	pancakes	1	
+2527	1	pantry	pantry	1	
+2528	1	paraday	
+2529	1	parole	parole	1	
+2530	1	partnership	partnership	1	
+2531	1	pat	pat	1	
+2532	1	patch	patch	1	
+2533	1	patent	patent	1	
+2534	1	path	path	1	
+2535	1	pause	pause	1	
+2536	1	peacock	peacock	1	
+2537	1	peat	
+2538	1	pencil	pencil	1	
+2539	1	pensicola	
+2540	1	pep	pep	1	
+2541	1	pepper	pepper	1	
+2542	1	peppermint	peppermint	1	
+2543	1	pet	pet	1	
+2544	1	philippines	
+2545	1	pickaninnies	
+2546	1	pigtail	pigtails	1	
+2547	1	pillowcase	pillowcase	1	
+2548	1	pinebluff	
+2549	1	piston	piston	1	
+2550	1	pitch	pitch	1	
+2551	1	pitcher	pitcher	1	
+2552	1	pitty	
+2553	1	plant	plant	1	
+2554	1	plantation	plantation	1	
+2555	1	playmate	playmates	1	
+2556	1	plum	plum	1	
+2557	1	plymouth	
+2558	1	polio	
+2559	1	portion	portion	1	
+2560	1	position	position	1	
+2561	1	possession	possession	1	
+2562	1	posy	posies	1	
+2563	1	potash	
+2564	1	pout	pout	1	
+2565	1	powderhouse	
+2566	1	practice	practice	1	
+2567	1	pratt	
+2568	1	pray	pray	1	
+2569	1	preach	preaching	1	
+2570	1	prejudice	prejudice	1	
+2571	1	presence	presence	1	
+2572	1	pride	pride	1	
+2573	1	prince	prince	1	
+2574	1	priscilla	
+2575	1	professor	professor	1	
+2576	1	progging	
+2577	1	promise	promise	1	
+2578	1	prosecutor	prosecutor	1	
+2579	1	provider	provider	1	
+2580	1	prowler	prowler	1	
+2581	1	psalm	psalms	1	
+2582	1	puff	puff	1	
+2583	1	pullman	pullman	1	
+2584	1	pum	
+2585	1	punishment	punishment	1	
+2586	1	pup	pup	1	
+2587	1	quarry	quarry	1	
+2588	1	quilt	quilt	1	
+2589	1	quince	quince	1	
+2590	1	quit	quit	1	
+2591	1	r	
+2592	1	rage	rage	1	
+2593	1	raggedy	
+2594	1	railway	railway	1	
+2595	1	raincoat	raincoat	1	
+2596	1	rainey	
+2597	1	raise	raise	1	
+2598	1	raisin	raisins	1	
+2599	1	ram	ramming	1	
+2600	1	ramble	rambling	1	
+2601	1	rattler	rattler	1	
+2602	1	reading	reading	1	
+2603	1	rear	rear	1	
+2604	1	recording	recording	1	
+2605	1	redbird	
+2606	1	reindeer	
+2607	1	relation	relation	1	
+2608	1	relative	relatives	1	
+2609	1	remain	remains	1	
+2610	1	rescue	rescue	1	
+2611	1	resident	resident	1	
+2612	1	return	return	1	
+2613	1	revenge	revenge	1	
+2614	1	rex	
+2615	1	rheumatism	
+2616	1	richland	
+2617	1	richmond	
+2618	1	rig	rig	1	
+2619	1	rind	rinds	1	
+2620	1	rising	rising	1	
+2621	1	risk	risk	1	
+2622	1	robber	robber	1	
+2623	1	robin	robin	1	
+2624	1	rocker	rocker	1	
+2625	1	rockerfeller	
+2626	1	role	role	1	
+2627	1	roosevelt	
+2628	1	rosetta	
+2629	1	rot	rot	1	
+2630	1	rotsy	
+2631	1	rounders	
+2632	1	roundhouse	
+2633	1	route	route	1	
+2634	1	rowdy	rowdy	1	
+2635	1	royce	
+2636	1	rufus	
+2637	1	rug	rug	1	
+2638	1	ruination	
+2639	1	rung	rungs	1	
+2640	1	ruse	ruses	1	
+2641	1	rut	rut	1	
+2642	1	sadie	
+2643	1	safety	
+2644	1	sailor	sailor	1	
+2645	1	saloon	saloons	1	
+2646	1	santy	
+2647	1	sass	
+2648	1	satches	
+2649	1	sauce	sauce	1	
+2650	1	saving	savings	1	
+2651	1	saying	saying	1	
+2652	1	scaffold	scaffold	1	
+2653	1	scar	scar	1	
+2654	1	scat	
+2655	1	schoolbook	
+2656	1	schoolboy	schoolboy	1	
+2657	1	score	score	1	
+2658	1	scorpion	scorpion	1	
+2659	1	scrap	scraps	1	
+2660	1	scratch	scratch	1	
+2661	1	scrub	scrub	1	
+2662	1	scrubby	scrubby	1	
+2663	1	scuffle	scuffle	1	
+2664	1	second	second	1	
+2665	1	selma	
+2666	1	seminole	
+2667	1	sentry	sentry	1	
+2668	1	service	service	1	
+2669	1	serviceman	serviceman	1	
+2670	1	seven	
+2671	1	sex	sex	1	
+2672	1	shabama	
+2673	1	shadow	shadow	1	
+2674	1	sham	sham	1	
+2675	1	shannon	
+2676	1	shee	
+2677	1	sheep	
+2678	1	sheet	sheets	1	
+2679	1	shelby	
+2680	1	shelter	shelter	1	
+2681	1	shepherd	shepherd	1	
+2682	1	sherry	sherry	1	
+2683	1	shetland	
+2684	1	shim	
+2685	1	shipwreck	shipwreck	1	
+2686	1	shiver	shivers	1	
+2687	1	shoetown	
+2688	1	shuffle	shuffling	1	
+2689	1	sicking	
+2690	1	simmer	simmer	1	
+2691	1	simmon	
+2692	1	sinnners	
+2693	1	sixteen	
+2694	1	skee	
+2695	1	skeedle	
+2696	1	skey	
+2697	1	skiff	skiffs	1	
+2698	1	skillet	skillets	1	
+2699	1	skull	skulls	1	
+2700	1	skunk	skunk	1	
+2701	1	slab	slab	1	
+2702	1	slack	slack	1	
+2703	1	slavery	
+2704	1	sleeve	sleeve	1	
+2705	1	slime	
+2706	1	sling	sling	1	
+2707	1	slobber	slobber	1	
+2708	1	slop	slop	1	
+2709	1	sluefoot	
+2710	1	slug	slugs	1	
+2711	1	smallpox	
+2712	1	smokestack	smokestack	1	
+2713	1	smoky	smoky	1	
+2714	1	snooze	snooze	1	
+2715	1	snot	
+2716	1	snowdrift	snowdrift	1	
+2717	1	society	society	1	
+2718	1	sofa	sofa	1	
+2719	1	somewheres	
+2720	1	sonnet	sonnet	1	
+2721	1	sort	sort	1	
+2722	1	southpaw	
+2723	1	sparrow	sparrow	1	
+2724	1	spate	spate	1	
+2725	1	speak	speak	1	
+2726	1	spill	spilling	1	
+2727	1	spine	spine	1	
+2728	1	spook	spooks	1	
+2729	1	spot	spot	1	
+2730	1	spray	spray	1	
+2731	1	sprout	sprouts	1	
+2732	1	squalor	
+2733	1	squeal	squeal	1	
+2734	1	squeezer	
+2735	1	stage	stage	1	
+2736	1	stall	stalling	1	
+2737	1	stallion	stallion	1	
+2738	1	stamp	stamp	1	
+2739	1	steady	steady	1	
+2740	1	steamer	steamers	1	
+2741	1	steer	steering	1	
+2742	1	stella	
+2743	1	stepper	
+2744	1	stetson	stetson	1	
+2745	1	stewball	
+2746	1	sting	sting	1	
+2747	1	stock	stocks	1	
+2748	1	stockyard	
+2749	1	stockyards	
+2750	1	stonewall	stonewall	1	
+2751	1	stony	stony	1	
+2752	1	stout	stout	1	
+2753	1	strand	strand	1	
+2754	1	streak	streak	1	
+2755	1	stream	stream	1	
+2756	1	stripe	stripes	1	
+2757	1	strutters	
+2758	1	stud	studs	1	
+2759	1	stunt	stunt	1	
+2760	1	submission	submission	1	
+2761	1	substitute	substitute	1	
+2762	1	success	success	1	
+2763	1	suffering	suffering	1	
+2764	1	sumner	
+2765	1	sunflower	sunflower	1	
+2766	1	superintendent	superintendent	1	
+2767	1	suposed	
+2768	1	surgery	surgery	1	
+2769	1	surprise	surprise	1	
+2770	1	suspicion	suspicion	1	
+2771	1	swanson	
+2772	1	swarm	swarm	1	
+2773	1	swear	swearing	1	
+2774	1	sweat	sweat	1	
+2775	1	sweep	sweep	1	
+2776	1	sweeper	sweeper	1	
+2777	1	sweet	sweeter	1	
+2778	1	sweetback	
+2779	1	sweetbacks	
+2780	1	swell	swell	1	
+2781	1	swig	swig	1	
+2782	1	sycamore	sycamore	1	
+2783	1	sympathy	sympathy	1	
+2784	1	system	system	1	
+2785	1	taillight	
+2786	1	tam	
+2787	1	tamales	
+2788	1	tangle	tangle	1	
+2789	1	tarnation	
+2790	1	taxi	taxi	1	
+2791	1	taxicab	taxicab	1	
+2792	1	taylor	
+2793	1	teacup	teacup	1	
+2794	1	technique	technique	1	
+2795	1	teens	
+2796	1	teepee	
+2797	1	teller	teller	1	
+2798	1	tender	tender	1	
+2799	1	text	text	1	
+2800	1	thank	thanks	1	
+2801	1	the	
+2802	1	thermometer	thermometer	1	
+2803	1	thread	threads	1	
+2804	1	throne	throne	1	
+2805	1	throttle	throttle	1	
+2806	1	throw	throwing	1	
+2807	1	thumb	thumb	1	
+2808	1	tick	tick	1	
+2809	1	tidings	
+2810	1	til	
+2811	1	tilty	
+2812	1	tim	
+2813	1	timmy	
+2814	1	titties	
+2815	1	tobacco	
+2816	1	toby	
+2817	1	tomales	
+2818	1	tomb	tomb	1	
+2819	1	tonic	tonic	1	
+2820	1	torro	
+2821	1	townie	townie	1	
+2822	1	tractor	tractors	1	
+2823	1	trainman	
+2824	1	traintime	
+2825	1	trance	trance	1	
+2826	1	transfer	transfer	1	
+2827	1	transportation	
+2828	1	trap	trap	1	
+2829	1	traveling	
+2830	1	tray	tray	1	
+2831	1	trestle	trestle	1	
+2832	1	trey	
+2833	1	trigger	trigger	1	
+2834	1	tripe	
+2835	1	trixie	
+2836	1	trot	trot	1	
+2837	1	trout	trout	1	
+2838	1	trustee	trustee	1	
+2839	1	tuberculosis	
+2840	1	tug	tug	1	
+2841	1	tunis	
+2842	1	tupalo	
+2843	1	turnkey	
+2844	1	tut	
+2845	1	twicking	
+2846	1	twirl	twirl	1	
+2847	1	twixt	
+2848	1	underskirt	
+2849	1	unkindness	
+2850	1	unto	
+2851	1	upset	upset	1	
+2852	1	urge	urge	1	
+2853	1	vacation	vacation	1	
+2854	1	vag	
+2855	1	valve	valves	1	
+2856	1	vamp	vamp	1	
+2857	1	vampire	vampire	1	
+2858	1	vance	
+2859	1	vane	vane	1	
+2860	1	vault	vault	1	
+2861	1	verdict	verdict	1	
+2862	1	vest	vest	1	
+2863	1	vice	vice	1	
+2864	1	victrola	
+2865	1	victuals	
+2866	1	vim	
+2867	1	visit	visit	1	
+2868	1	vitality	
+2869	1	wa	
+2870	1	wabash	
+2871	1	waco	
+2872	1	wad	wad	1	
+2873	1	waller	
+2874	1	wally	wally	1	
+2875	1	warden	warden	1	
+2876	1	wart	warts	1	
+2877	1	washboards	
+2878	1	washington	
+2879	1	washtub	
+2880	1	washwoman	
+2881	1	weaver	weaver	1	
+2882	1	wedding	wedding	1	
+2883	1	wee	wee	1	
+2884	1	western	western	1	
+2885	1	wheeze	wheeze	1	
+2886	1	whippoorwill	
+2887	1	whiskeyhouse	
+2888	1	whitewash	whitewash	1	
+2889	1	whoop	whooping	1	
+2890	1	whore	whore	1	
+2891	1	whosoever	
+2892	1	wichita	
+2893	1	wicket	wicket	1	
+2894	1	wiggle	wiggle	1	
+2895	1	wiggler	
+2896	1	william	
+2897	1	williams	
+2898	1	wilson	
+2899	1	winchester	
+2900	1	winckle	
+2901	1	winder	
+2902	1	windstorm	
+2903	1	winfield	
+2904	1	winner	winner	1	
+2905	1	with	
+2906	1	wobbler	
+2907	1	woe	woe	1	
+2908	1	womenfolk	
+2909	1	workbench	workbench	1	
+2910	1	worker	worker	1	
+2911	1	worm	worm	1	
+2912	1	wow	
+2913	1	wrap	wrap	1	
+2914	1	wren	wren	1	
+2915	1	wriggle	wriggle	1	
+2916	1	wrong	wrongs	1	
+2917	1	x	
+2918	1	yond	
+2919	1	yoon	
+2920	1	you	
+2921	1	youth	youth	1	
+2922	1	zero	zero	1	
+2923	1	zip	zip	1	
+2924	1	zone	zone	1	
+2925	1	zoo	zoo	1	

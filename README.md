@@ -1,6 +1,8 @@
 # beck-vs-the-blues
 A mini corpus linguistics project
 
+https://zenodo.org/badge/77035517.svg
+
 This is a repository for an assignment for a course on the methods in digital humanities at the University of Helsinki.
 
 The task was to take some data and process it in some way to get an interesting analysis or a visualisation, and at the same time get acquainted with some useful methods.
